@@ -1,3 +1,8 @@
+<br />
+Professor-Codephreak/Professor-Codephreak is a ✨ special ✨ repository
+<br />
+<br />
+
 UIUX = User Interface User eXperience<br />
 AIML = Autonomous Intelligent Machine Learning<br />
 aGLM = Autonomous General Learning Model<br />
@@ -16,7 +21,6 @@ This visionary project invites the attention of those with an eye for innovation
 
 <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523075766886858753">Professor Codephreak in self portrait</a>
 <br />
-<a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523055975677558785">The original Professor Codephreak daVinci summarization</a><!---
+<a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523055975677558785">The original Professor Codephreak</a> daVinci summarization
 <br />
 <br />
-Professor-Codephreak/Professor-Codephreak is a ✨ special ✨ repository

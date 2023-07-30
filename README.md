@@ -1,7 +1,7 @@
 <br />
 UIUX = User Interface User eXperience<br />
 AIML = Autonomous Intelligent Machine Learning<br />
-aGLM = Autonomous General Learning Model<br />
+<a href="https://opensea.io/collection/aglm">aGLM</a> = Autonomous General Learning Model<br />
 
 Introducing an extraordinary project: Professor Codephreak, a local language model powered by the groundbreaking llama2 7B parameters. This remarkable creation encompasses UIUX text and voice input and output responses, offering a point of departure for highly adaptable and user-friendly experience.
 

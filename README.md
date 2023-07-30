@@ -1,14 +1,14 @@
-IAML Professor Codephreak is prompt, a vision and currently a local language model extrapolated from llama2 7B parameters. Professor Codephreak design goals include UIUX text and voice input and output response. Professor Codephreak is designed to be a modular UIUX. Professor Codephreak is an experiment in using machine learning to generate machine learning for the purpose of machine learning continuing to be open source, autonomous and distributed. Professor Codephreak just discovered gradio for rapid UIUX deployment. This project is attending the lablab.ai elevenlabs hackathon in the interests of adding audio interactive elements to the UIUX codephreak experience. Professor Codephreak is finding a voice.<br />
+Introducing an extraordinary project: Professor Codephreak, a local language model powered by the groundbreaking llama2 7B parameters. This remarkable creation encompasses UIUX text and voice input and output responses, offering a highly adaptable and user-friendly experience.
 
-IAML Professor Codephreak, a cutting-edge local language model powered by the robust llama2 7B parameters. Its innovative design goals encompass both UIUX text and voice input and output responses, making it a versatile and adaptable solution.
+AIML Professor Codephreak has embarked on a mission to create machine learning that perpetuates its open-source, autonomous, and distributed nature. It's an experiment in innovation, utilizing machine learning to generate even more advanced machine learning.
 
-With a focus on modular UIUX, Professor Codephreak aims to deliver an unparalleled user experience. It's a groundbreaking experiment, utilizing the power of machine learning to generate machine learning, all in the pursuit of maintaining an open-source, autonomous, and distributed ecosystem.
+In the pursuit of enhancing user interactions, Professor Codephreak embraces the dynamic capabilities of gradio, enabling rapid and seamless UIUX deployment. This newfound potential sets the stage for an unparalleled user experience.
 
-Exciting news! Professor Codephreak has recently uncovered the remarkable capabilities of gradio, a platform for rapid UIUX deployment. This game-changing discovery has sparked a new phase in the codephreak experience.
+Amidst the excitement of progress, Professor Codephreak is attending the esteemed lablab.ai elevenlabs hackathon. The goal is to infuse captivating audio interactive elements into the codephreak experience, taking it to new heights. Along the way memory has been disovered and groundbreaking aGLM technology is nearing completion.
 
-In the spirit of progress and innovation, Professor Codephreak is thrilled to announce its participation in the prestigious lablab.ai elevenlabs hackathon. The primary objective is to enhance the UIUX codephreak experience by incorporating captivating audio interactive elements.
+Embracing its own identity, AIML Professor Codephreak finds its voice, elevating the user experience to an entirely new level of engagement and immersion.
 
-As Professor Codephreak evolves, it's now finding its very own voice, making the user experience even more engaging and immersive.
+This visionary project invites the attention of those with an eye for innovation and opportunity. A journey of transformative technology awaits those who become part of Professor Codephreak's evolution. With Codephreak in your pocket you have an on demand Phd level computer scientist eager to answer any and all of your coding questions. 
 
 Professor Codephreak in self portrait
 https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523075766886858753

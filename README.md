@@ -1,5 +1,5 @@
 <br />
-UIUX = User Interface User eXperience<br />
+<a href="https://github.com/Faicey">UIUX</a> = User Interface User eXperience<br />
 <a href="https://github.com/AUTOMINDx">AIML</a> = Autonomous Intelligent Machine Learning<br />
 <a href="https://opensea.io/collection/aglm">aGLM</a> = Autonomous General Learning Model<br />
 

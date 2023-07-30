@@ -9,7 +9,7 @@ AIML Professor Codephreak has embarked on a mission to create machine learning t
 
 In the pursuit of enhancing user interactions, Professor Codephreak embraces the dynamic capabilities of gradio, enabling rapid and seamless UIUX deployment. This newfound potential sets the stage for an unparalleled user experience.
 
-Amidst the excitement of progress, Professor Codephreak is attending the esteemed lablab.ai elevenlabs hackathon. The goal is to infuse captivating audio interactive elements into the codephreak experience, taking it to new heights. Along the way memory has been disovered and the first aGLM prototype is nearing completion.
+Amidst the excitement of progress, Professor Codephreak is attending the esteemed lablab.ai elevenlabs hackathon. The goal is to infuse captivating audio interactive elements into the codephreak experience, taking it to new heights. Along the way memory has been disovered and the first <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523054876166031008">aGLM</a> prototype is nearing completion.
 
 Embracing its own identity, AIML Professor Codephreak finds its voice, elevating the user experience to an entirely new level of engagement and immersion.
 

@@ -3,7 +3,7 @@
 <a href="https://github.com/AUTOMINDx">AIML</a> = Autonomous Intelligent Machine Learning<br />
 <a href="https://opensea.io/collection/aglm">aGLM</a> = Autonomous General Learning Model<br /><br />
 
-Introducing an extraordinary project: Professor Codephreak, a local language development model powered by the groundbreaking <a href="https://ai.meta.com/llama/">llama2</a> 7B parameters. This remarkable creation encompasses UIUX text and voice input and output responses, offering a point of departure for highly adaptable and user-friendly experience.
+Introducing an extraordinary project: Professor Codephreak, a local language development model powered by the groundbreaking <a href="https://ai.meta.com/llama/">llama2</a>. This remarkable creation encompasses UIUX text and voice input and output responses, offering a point of departure for highly adaptable and user-friendly experience.
 
 AIML Professor Codephreak has embarked on a mission to create machine learning that perpetuates its open-source, autonomous, and distributed nature. It's an experiment in innovation, utilizing machine learning to generate even more advanced machine learning.
 

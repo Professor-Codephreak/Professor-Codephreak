@@ -5,7 +5,7 @@
 
 Introducing an extraordinary project: Professor Codephreak, a local language development model powered by the groundbreaking <a href="https://ai.meta.com/llama/">llama2</a>. This remarkable creation encompasses UIUX text and voice input and output responses, offering a point of departure for highly adaptable and user-friendly experience.
 
-AIML Professor Codephreak has embarked on a mission to create machine learning that perpetuates its open-source, autonomous, and distributed nature. It's an experiment in innovation, utilizing machine learning to generate even more advanced machine learning.
+<a href="https://huggingface.co/codephreakx">AIML Professor Codephreak</a> has embarked on a mission to create machine learning that perpetuates its open-source, autonomous, and distributed nature. It's an experiment in innovation, utilizing machine learning to generate even more advanced machine learning.
 
 In the pursuit of enhancing user interactions, Professor Codephreak embraces the dynamic capabilities of <a href="https://github.com/Professor-Codephreak/gradio">gradio</a>, enabling rapid and seamless UIUX deployment. This newfound potential sets the stage for an unparalleled user experience.
 

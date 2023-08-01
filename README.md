@@ -25,5 +25,5 @@ IAML Professor-Codephreak/Professor-Codephreak is a ✨ special ✨ repository
 <br />
 Research into <a href="https://github.com/minaiml">minaiml</a> language models<br />
 Research into <a href="https://github.com/Jaimla">Intelligent Agents</a></br>
-Research into <a href="https://github.com/AUTOMINDx">distributed AUTOMINDx</br>
+Research into <a href="https://github.com/AUTOMINDx">distributed AUTOMINDx</a></br>
 Research into <a href="https://github.com/aiosml">Autonomous Intelligent Operating System Machine Learning</a>

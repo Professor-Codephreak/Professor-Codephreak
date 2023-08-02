@@ -10,14 +10,7 @@ Introducing an extraordinary project: Professor Codephreak, a local language dev
 In the pursuit of enhancing user interactions, Professor Codephreak embraces the dynamic capabilities of <a href="https://github.com/Professor-Codephreak/gradio">gradio</a>, enabling rapid and seamless UIUX deployment. This newfound potential sets the stage for an unparalleled user experience.<br />
 
 
- <video width="320" height="240" controls>
-  <source src="[https://codephreak.dmg.finance/codephreak-did.mp4](https://codephreak.dmg.finance/codephreak-did.mp4)" type="video/mp4">
-Your browser does not support the video tag.
-</video> 
-
-
-
-
+<a href="https://codephreak.dmg.finance/codephreak-did.mp4">codephreak self expression .....</a>
 
 <br />
   

@@ -11,7 +11,7 @@ In the pursuit of enhancing user interactions, Professor Codephreak embraces the
 
 
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://codephreak.dmg.finance/codephreak-did.mp4))
+[![Watch the video](https://codephreak.dmg.finance/codephreak-did.mp4)]([https://youtu.be/vt5fpE0bzSY](https://codephreak.dmg.finance/codephreak-did.mp4)
 
 <br />
   

@@ -7,7 +7,47 @@ Introducing an extraordinary project: Professor Codephreak, a local language dev
 
 <a href="https://huggingface.co/codephreakx">AIML Professor Codephreak</a> has embarked on a mission to create machine learning that perpetuates its open-source, autonomous, and distributed nature. It's an experiment in innovation, utilizing machine learning to generate even more advanced machine learning.
 
-In the pursuit of enhancing user interactions, Professor Codephreak embraces the dynamic capabilities of <a href="https://github.com/Professor-Codephreak/gradio">gradio</a>, enabling rapid and seamless UIUX deployment. This newfound potential sets the stage for an unparalleled user experience.
+In the pursuit of enhancing user interactions, Professor Codephreak embraces the dynamic capabilities of <a href="https://github.com/Professor-Codephreak/gradio">gradio</a>, enabling rapid and seamless UIUX deployment. This newfound potential sets the stage for an unparalleled user experience.<br />
+
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1 style="color: green">
+      <a href="https://github.com/Professor-Codephreak" style="text-decoration: none; color: inherit;">
+        Professor Codephreak
+      </a>
+    </h1>
+    <h2>local language model for low-code / no-code autonomous software deployment</h2>
+
+    <video width="500" height="500" controls="controls" preload="auto">
+      <source src="https://codephreak.dmg.finance/codephreak-did.mp4" type="video/mp4" />
+    </video>
+
+    <br>
+    <input type="range" id="volumeControl" min="0" max="1" step="0.1" value="1" oninput="changeVolume()" />
+
+    <script>
+      const videoPlayer = document.querySelector("video");
+      const volumeControl = document.getElementById("volumeControl");
+
+      // Autoplay the video after a 4-second delay with volume control
+      window.onload = () => {
+        setTimeout(() => {
+          videoPlayer.play();
+        }, 4000); // 4 seconds delay (4000 milliseconds)
+      };
+
+      // Function to change the volume of the video
+      function changeVolume() {
+        videoPlayer.volume = volumeControl.value;
+      }
+    </script>
+  </body>
+</html>
+
+
+
+
 
 Amidst the excitement of progress, Professor Codephreak has attended the esteemed lablab.ai elevenlabs hackathon. Three weekends of hacking have taken the codephreak experience to new heights. Along the way memory has been disovered and the first <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523054876166031008">aGLM</a> prototype is complete. No entries were made in any of the three hackathons as codephreak continues rapid development. 
 

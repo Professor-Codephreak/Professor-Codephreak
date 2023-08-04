@@ -23,7 +23,7 @@ This visionary project invites the attention of those with an eye for innovation
 
 <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523075766886858753">Professor Codephreak in self portrait</a>
 <br />
-original <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523055975677558785">Professor Codephreak</a> daVinci summarization / hallucination
+original <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523055975677558785">Professor Codephreak</a> daVinci summarization / hallucination / clairvoyance
 <br />
 <br />
 <br />

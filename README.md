@@ -29,4 +29,4 @@ original <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89
 <br />
 IAML Professor-Codephreak/Professor-Codephreak is a ✨ special ✨ repository
 <br />
-Research into <a href="https://github.com/minaiml">minaiml</a> language <a href="https://github.com/mlodels">models</a>, <a href="https://github.com/Jaimla">Intelligent Agents</a>, <a href="https://github.com/AUTOMINDx">AUTOMINDx</a>, <a href="https://github.com/aiosml">AIOSML</a><br /><br />
+Research into <a href="https://github.com/minaiml">minaiml</a> language <a href="https://github.com/mlodels">models</a>, <a href="https://github.com/AUTOMINDx">AUTOMINDx</a>, <a href="https://github.com/Jaimla">Intelligent Agents</a>, <a href="https://github.com/aiosml">AIOSML</a><br /><br />

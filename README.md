@@ -2,7 +2,7 @@
 <a href="https://github.com/Faicey">UIUX</a> = User Interface User eXperience<br />
 <a href="https://github.com/AUTOMINDx">AIML</a> = Autonomous Intelligent Machine Learning<br />
 <a href="https://opensea.io/collection/aglm">aGLM</a> = Autonomous General Learning Model<br />
-<a href="https://github.com/webmindml/.github">webmindML WebGPU reference links</a><br /><br />
+<a href="https://github.com/webmindml/.github">webmindML</a> =  WebGPU reference links<br /><br />
 
 Introducing an extraordinary project: Professor Codephreak, a local language development model powered by the groundbreaking <a href="https://ai.meta.com/llama/">llama2</a>. This remarkable creation encompasses UIUX text and voice input and output responses, offering a point of departure for highly adaptable and user-friendly experience.
 

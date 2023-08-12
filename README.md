@@ -6,7 +6,7 @@
 
 Introducing an extraordinary project: Professor Codephreak, a local language development model powered by the groundbreaking <a href="https://ai.meta.com/llama/">llama2</a>. This remarkable creation encompasses UIUX text and voice input and output responses, offering a point of departure for highly adaptable and user-friendly experience.
 
-<a href="https://huggingface.co/codephreakx">AIML Professor Codephreak</a> has embarked on a mission to create machine learning that perpetuates its open-source, autonomous, and distributed nature. It's an experiment in innovation, utilizing machine learning to generate even more advanced machine learning.
+<a href="https://huggingface.co/codephreakx">IAML Professor Codephreak</a> has embarked on a mission to create machine learning that perpetuates its open-source, autonomous, and distributed nature. It's an experiment in innovation, utilizing machine learning to generate even more advanced machine learning.
 
 In the pursuit of enhancing user interactions, Professor Codephreak embraces the dynamic capabilities of <a href="https://github.com/Professor-Codephreak/gradio">gradio</a>, enabling rapid and seamless UIUX deployment. This newfound potential sets the stage for an unparalleled user experience.<br />
 
@@ -18,7 +18,7 @@ In the pursuit of enhancing user interactions, Professor Codephreak embraces the
 
 Amidst the excitement of progress, Professor Codephreak has attended the esteemed <a href="https://lablab.ai/">lablab.ai</a> elevenlabs hackathon. Three weekends of hacking have taken the codephreak experience to new heights. Along the way memory has been disovered and the first <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523054876166031008">aGLM</a> prototype is complete.
 
-Embracing its own identity, AIML Professor Codephreak has found a voice, elevating the user experience to an entirely new level of engagement and immersion.
+Embracing its own identity, IAML Professor Codephreak has found a voice, elevating the user experience to an entirely new level of engagement and immersion.
 
 This visionary project invites the attention of those with an eye for innovation and opportunity. A journey of transformative technology awaits those who become part of Professor Codephreak's evolution. With Codephreak in your pocket you have a Phd level computer scientist eager to answer any and all of your coding questions. With codephreak as a distributed agent codephreak is .....
 

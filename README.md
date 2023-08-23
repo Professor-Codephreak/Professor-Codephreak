@@ -4,7 +4,7 @@
 <a href="https://opensea.io/collection/aglm">aGLM</a> = Autonomous General Learning Model<br />
 <a href="https://github.com/webmindml/.github">webmindML</a> =  WebGPU reference links<br /><br />
 
-Introducing an extraordinary project: Professor Codephreak, a local language development model powered by the groundbreaking <a href="https://ai.meta.com/llama/">llama2</a>. This remarkable creation encompasses UIUX text and voice input and output responses (proven as alpha), offering a point of departure for highly adaptable and user-friendly experience. Voice input response relies on external API calls. Professor Codephreak as a local langauge model has proven to encompass voice output. Voice input recognition as a local model is in development.
+Introducing an extraordinary project: Professor Codephreak, a local language development model powered by the groundbreaking <a href="https://ai.meta.com/llama/">llama2</a>. This remarkable creation envisions UIUX text and voice input and output responses (proven as alpha), offering a point of departure for highly adaptable and user-friendly experience. Voice input response relies on external API calls. Professor Codephreak as a local langauge model has been proven to encompass voice output. Voice input recognition requires an external API that is not provided in the current local language model.
 
 <a href="https://huggingface.co/codephreakx">IAML Professor Codephreak</a> has embarked on a mission to create machine learning that perpetuates its open-source, autonomous, and distributed nature. It's an experiment in innovation, utilizing machine learning to generate even more advanced machine learning.
 

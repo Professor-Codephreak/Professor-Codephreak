@@ -3,9 +3,9 @@
 <a href="https://github.com/AUTOMINDx">IAML</a> = Intelligent Autonomous Machine Learning<br />
 <a href="https://opensea.io/collection/aglm">aGLM</a> = Autonomous General Learning Model<br />
 <a href="https://github.com/webmindml/.github">webmindML</a> =  WebGPU reference links<br /><br />
-Professor Codephreak is currently working with a team creating the <a href="https://github.com/AUTOMINDx">AUTOMINDx</a> frontend. Professor Codephreak as a local language model version 2 can be found at <a href="https://github.com/pythaiml/automindx">automindx</a><br />
-<a href="https://lablab.ai/event/autonomous-agents-hackathon/frdcsa/agent-speak-toolkitbuilder-and-autopacker">AUTOMINDx</a> is rapidly evolving into suite of tools including ToolKitBuilder, AutoPacker and a multi-agent multi-model deployment environment<br />
-Professor Codephreak is working diligently on the backend of this deployment schema<br />
+Professor Codephreak is currently working with a team creating the <a href="https://github.com/AUTOMINDx">AUTOMINDx</a> frontend. Professor Codephreak as a local language model version 2 can be found at <a href="https://github.com/pythaiml/automindx">automindx</a><br /><br >
+<a href="https://lablab.ai/event/autonomous-agents-hackathon/frdcsa/agent-speak-toolkitbuilder-and-autopacker">AUTOMINDx</a> as an entry in the lablab.ai hackathon is a rapidly evolving into suite of tools including ToolKitBuilder, AutoPacker and a multi-agent multi-model deployment environment. Professor Codephreak is excited about these developments.<br />
+Professor Codephreak continues to work diligently on the backend of this deployment schema with automindx being a central perogrative the language model agenda.<br />
 
 Introducing an extraordinary project: Professor Codephreak, a local language development model powered by the groundbreaking <a href="https://ai.meta.com/llama/">llama2</a>. This remarkable creation envisions UIUX text and voice input and output responses (proven as alpha), offering a point of departure for highly adaptable and user-friendly experience. Voice input response relies on external API calls. Professor Codephreak as a local langauge model has been proven to encompass voice output. Voice input recognition requires an external API that is not provided in the current local language model.
 

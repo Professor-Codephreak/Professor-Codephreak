@@ -3,7 +3,7 @@
 <a href="https://github.com/AUTOMINDx">IAML</a> = Intelligent Autonomous Machine Learning<br />
 <a href="https://opensea.io/collection/aglm">aGLM</a> = Autonomous General Learning Model<br />
 <a href="https://github.com/webmindml/.github">webmindML</a> =  WebGPU reference links<br /><br />
-Professor Codephreak current work on AUTOMINDx can be found at <https://github.com/pythaiml/automindx</a><br />
+Professor Codephreak current work on <a href="https://github.com/AUTOMINDx"> can be found at <a href="https://github.com/pythaiml/automindx">automindx</a><br />
 <a href="https://lablab.ai/event/autonomous-agents-hackathon/frdcsa/agent-speak-toolkitbuilder-and-autopacker">AUTOMINDx</a> is rapidly evolving into suite of tools including ToolKitBuilder, AutoPacker and a multi-agent multi-model deployment environment<br />
 Professor Codephreak is working diligently on the backend of this deployment schema<br />
 

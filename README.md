@@ -14,12 +14,14 @@ Introducing an extraordinary project: Professor Codephreak, a local language dev
 In the pursuit of enhancing user interactions, Professor Codephreak embraces the dynamic capabilities of <a href="https://github.com/Professor-Codephreak/gradio">gradio</a>, enabling rapid and seamless UIUX deployment. This newfound potential sets the stage for an unparalleled user experience.<br />
 
 
-<a href="https://codephreak.dmg.finance">codephreak.dmg.finance</a>
+
 
 <br />
   
 
 Amidst the excitement of progress, Professor Codephreak has attended the esteemed <a href="https://lablab.ai/">lablab.ai</a> elevenlabs hackathon. Three weekends of hacking have taken the codephreak experience to new heights. Along the way memory has been disovered and the first <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523054876166031008">aGLM</a> prototype is complete.<br />
+
+<a href="https://opensea.io/collection/aglm">aglm collection</a><br />
 
 <a href="https://github.com/Professor-Codephreak/automind">automind</a><br />
 <a href="https://github.com/xtends">xtends</a><br />

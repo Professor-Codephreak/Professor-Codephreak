@@ -19,7 +19,16 @@ In the pursuit of enhancing user interactions, Professor Codephreak embraces the
 <br />
   
 
-Amidst the excitement of progress, Professor Codephreak has attended the esteemed <a href="https://lablab.ai/">lablab.ai</a> elevenlabs hackathon. Three weekends of hacking have taken the codephreak experience to new heights. Along the way memory has been disovered and the first <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523054876166031008">aGLM</a> prototype is complete.
+Amidst the excitement of progress, Professor Codephreak has attended the esteemed <a href="https://lablab.ai/">lablab.ai</a> elevenlabs hackathon. Three weekends of hacking have taken the codephreak experience to new heights. Along the way memory has been disovered and the first <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523054876166031008">aGLM</a> prototype is complete.<br />
+
+<a href="https://github.com/Professor-Codephreak/automind">automind</a><br />
+<a href="https://github.com/xtends">xtends</a><br />
+<a href="https://github.com/pythaiml">pythaiml</a><br />
+<a href="https://github.com/gpt4plugins">gpt4plugins</a><br />
+<a href="https://github.com/augml">augml</a><br />
+
+
+
 
 Embracing its own identity, IAML Professor Codephreak has found a voice, elevating the user experience to an entirely new level of engagement and immersion.
 

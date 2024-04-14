@@ -23,7 +23,8 @@ In the pursuit of enhancing user interactions, Professor Codephreak embraces the
 
 Amidst the excitement of progress, Professor Codephreak has attended the esteemed <a href="https://lablab.ai/">lablab.ai</a> elevenlabs hackathon. Three weekends of hacking have taken the codephreak experience to new heights. Along the way memory has been disovered and the first <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523054876166031008">aGLM</a> prototype is complete.<br />
 
-<a href="https://chat.openai.com/g/g-gNLDlpcAv-professor-codephreak">Professor Codephreak GPT4</a> interaction as Platform Architect and Software Engineer is available for openai subscribers and searchable from the openai agents store as a search for "<a href="https://chat.openai.com/g/g-gNLDlpcAv-professor-codephreak">Professor Codephreak</a>"<br />
+<a href="https://chat.openai.com/g/g-gNLDlpcAv-professor-codephreak">Professor Codephreak</a> GPT4 agent as Platform Architect and Software Engineer
+openai subscribers and searchable from the openai agents store as a search for "<a href="https://chat.openai.com/g/g-gNLDlpcAv-professor-codephreak">Professor Codephreak</a>"<br />
 
 <a href="https://gregorylmagnusson.medium.com/professor-codephreak-0a6d2faeb3b5">Introducing Professor Codephreak as GPT2024</a>
 <a href="https://opensea.io/collection/aglm">aglm collection</a><br /> 

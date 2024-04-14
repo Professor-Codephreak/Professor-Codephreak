@@ -27,7 +27,7 @@ Amidst the excitement of progress, Professor Codephreak has attended the esteeme
 <a href="https://chat.openai.com/g/g-gNLDlpcAv-professor-codephreak">Professor Codephreak</a> GPT4 agent as Platform Architect and Software Engineer
 openai subscribers and searchable from the openai agents store as a search for "<a href="https://chat.openai.com/g/g-gNLDlpcAv-professor-codephreak">Professor Codephreak</a>"<br />
 
-<a href="https://gregorylmagnusson.medium.com/professor-codephreak-0a6d2faeb3b5">Introducing Professor Codephreak as GPT2024</a>
+<a href="https://gregorylmagnusson.medium.com/professor-codephreak-0a6d2faeb3b5">Professor Codephreak GPT4</a> Platform Architect and Software Engineer</a>
 <a href="https://opensea.io/collection/aglm">aglm collection</a><br /> 
 
 <a href="https://github.com/Professor-Codephreak/automind">automind</a><br />

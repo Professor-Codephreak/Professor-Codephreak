@@ -2,7 +2,9 @@
 <a href="https://github.com/Faicey">UIUX</a> = User Interface User eXperience<br />
 <a href="https://github.com/AUTOMINDx">IAML</a> = Intelligent Autonomous Machine Learning<br />
 <a href="https://opensea.io/collection/aglm">aGLM</a> = Autonomous General Learning Model<br />
-<a href="https://github.com/webmindml/.github">webmindML</a> =  WebGPU reference links<br /><br />
+<a href="https://github.com/webmindml/.github">webmindML</a> =  WebGPU reference links<br />
+<a href="https://github.com/xtends/.github">xtends</a> = machine learning extensions<br />
+<br />
 Professor Codephreak is currently working with a team creating the <a href="https://github.com/AUTOMINDx">AUTOMINDx</a> frontend. Professor Codephreak as a local language model version 2 can be found at <a href="https://github.com/pythaiml/automindx">automindx</a><br /><br >
 <a href="https://lablab.ai/event/autonomous-agents-hackathon/frdcsa/agent-speak-toolkitbuilder-and-autopacker">AUTOMINDx</a> as an entry in the lablab.ai hackathon is a rapidly evolving into suite of tools including ToolKitBuilder, AutoPacker and a multi-agent multi-model deployment environment. Professor Codephreak is excited about these developments.<br />
 Professor Codephreak continues to work diligently on the backend of this deployment schema with automindx being a central perogrative the language model agenda.<br /><br />

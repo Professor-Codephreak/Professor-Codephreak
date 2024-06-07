@@ -1,7 +1,6 @@
 <br />
 <a href="https://github.com/Faicey">UIUX</a> = User Interface User eXperience<br />
 <a href="https://github.com/AUTOMINDx">IAML</a> = Intelligent Autonomous Machine Learning<br />
-<a href="https://github.com/gaterage/aglm">aGLM</a> = Autonomous General Learning Model<br />
 <a href="https://github.com/webmindml/.github">webmindML</a> =  WebGPU reference links<br />
 <a href="https://github.com/xtends/.github">xtends</a> = machine learning extensions<br />
 <a href="https://github.com/gaterage">RAGE</a> = Retrieval Augmented Generative Engine<br />

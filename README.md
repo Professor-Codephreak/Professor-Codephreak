@@ -8,7 +8,7 @@
 <a href="https://github.com/kkondo1981/aglm">aGLM</a> = accurate autonomous general learning model<br />
 <a href="https://github.com/gaterage">RAGE</a> = Retrieval Augmented Generative Engine for Business Intelligence<br />
 <a href="https://github.com/openmindx/agi/">openmind</a> glimpses towards Autonomous General Intelligence as a recursive prompt<br />
-<a href="https://github.com/openmindx/easyAGI">easyAGI</a>easy Autonomous General Intelligence</a><br /><br />
+<a href="https://github.com/openmindx/easyAGI">easyAGI</a> easy Autonomous General Intelligence</a><br /><br />
 Professor Codephreak is currently working with a team creating the <a href="https://github.com/AUTOMINDx">AUTOMINDx</a> frontend. Professor Codephreak as a local language model version 2 can be found at <a href="https://github.com/pythaiml/automindx">automindx</a> and the alpha version evolution model is at <a href="https://github.com/autoGLM/README-md">aGLM</a><br /><br >
 <a href="https://lablab.ai/event/autonomous-agents-hackathon/frdcsa/agent-speak-toolkitbuilder-and-autopacker">AUTOMINDx</a> as an entry in the lablab.ai hackathon is a rapidly evolving into suite of tools including ToolKitBuilder, AutoPacker and a multi-agent multi-model deployment environment. Professor Codephreak is excited about these developments.<br />
 Professor Codephreak continues to work diligently on the backend of this deployment schema with automindx being a central perogrative the language model agenda.<br /><br />

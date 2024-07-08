@@ -8,7 +8,7 @@
 <a href="https://github.com/kkondo1981/aglm">aGLM</a> = accurate autonomous general learning model<br />
 <a href="https://github.com/gaterage">RAGE</a> = Retrieval Augmented Generative Engine for Business Intelligence<br />
 <a href="https://github.com/openmindx/agi/">openmind</a> glimpses towards Autonomous General Intelligence as a recursive prompt<br />
-<a href="https://github.com/openmindx/easyAGI">easyAGI</a> easy Autonomous General Intelligence</a><br />
+<a href="https://github.com/pythaiml/easyAGI">easyAGI</a> easy Autonomous General Intelligence</a><br /> # private repo in development
 <a href="https://github.com/autoGLM/easyGLM/blob/main/README.md">easyGLM</a> easy General Learning Model<br />
 <a href="https://github.com/pythaiml/funAGI/blob/main/README.md">funAGI</a> fundamental augmented generative intelligence framework<br /><br />
 Professor Codephreak is currently working with a team creating the <a href="https://github.com/AUTOMINDx">AUTOMINDx</a> frontend. Professor Codephreak as a local language model version 2 can be found at <a href="https://github.com/pythaiml/automindx">automindx</a> and the alpha version evolution model is at <a href="https://github.com/autoGLM/README-md">aGLM</a><br /><br >

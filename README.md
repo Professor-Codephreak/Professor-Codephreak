@@ -58,4 +58,5 @@ original <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89
 <br />
 IAML Professor-Codephreak/Professor-Codephreak is a ✨ special ✨ repository
 <br />
-Research into <a href="https://github.com/minaiml">minaiml</a> language <a href="https://github.com/mlodels">models</a>, <a href="https://github.com/AUTOMINDx">AUTOMINDx</a>, <a href="https://github.com/Jaimla">Intelligent Agents</a>, <a href="https://github.com/webmindml/.github">WebGPU</a> and <a href="https://github.com/aiosml">AIOSML</a><br /><br />
+Research into <a href="https://github.com/minaiml">minaiml</a> language <a href="https://github.com/mlodels">models</a>, <a href="https://github.com/AUTOMINDx">AUTOMINDx</a>, <a href="https://github.com/Jaimla">Intelligent Agents</a>, <a href="https://github.com/webmindml/.github">WebGPU</a> and <a href="https://github.com/aiosml">AIOSML</a><br /><br /><br />
+<a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523076866398486535">codephreak manifesto first words</a>

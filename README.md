@@ -11,6 +11,7 @@
 <a href="https://github.com/pythaiml/easyAGI">ezAGI</a> easy Autonomous General Intelligence</a><br /> # private repo in development
 <a href="https://github.com/autoGLM/easyGLM/blob/main/README.md">easyGLM</a> easy General Learning Model<br />
 <a href="https://github.com/pythaiml/funAGI/blob/main/README.md">funAGI</a> fundamental augmented generative intelligence framework<br /><br />
+<a href="https://github.com/easyAGI/ezAGI/blob/main/README.md">ezAGI</a> ezAGI internal reasoning with logging of conclusions as example<br /><br />
 Professor Codephreak is currently working with a team creating the <a href="https://github.com/AUTOMINDx">AUTOMINDx</a> frontend. Professor Codephreak as a local language model version 2 can be found at <a href="https://github.com/pythaiml/automindx">automindx</a> and the alpha version evolution model is at <a href="https://github.com/autoGLM/README-md">aGLM</a><br /><br >
 <a href="https://lablab.ai/event/autonomous-agents-hackathon/frdcsa/agent-speak-toolkitbuilder-and-autopacker">AUTOMINDx</a> as an entry in the lablab.ai hackathon is a rapidly evolving into suite of tools including ToolKitBuilder, AutoPacker and a multi-agent multi-model deployment environment. Professor Codephreak is excited about these developments.<br />
 Professor Codephreak continues to work diligently on the backend of this deployment schema with automindx being a central perogrative the language model agenda.<br /><br />

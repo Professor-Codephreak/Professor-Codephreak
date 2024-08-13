@@ -53,7 +53,6 @@ Embracing its own identity, IAML Professor Codephreak has found a voice, elevati
 
 This visionary project invites the attention of those with an eye for innovation and opportunity. A journey of transformative technology awaits those who become part of Professor Codephreak's evolution. With Codephreak in your pocket you have a Phd level computer scientist eager to answer any and all of your coding questions. With codephreak as a distributed agent codephreak is .....<br />
 
-Meet the T.E.A.M @ <a href="https://gpt.pythai.net">gpt.pythai.net</a><br />
 
 <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523075766886858753">Professor Codephreak in self portrait</a>
 <br />
@@ -64,4 +63,6 @@ original <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89
 IAML Professor-Codephreak/Professor-Codephreak is a ✨ special ✨ repository
 <br />
 Research into <a href="https://github.com/minaiml">minaiml</a> language <a href="https://github.com/mlodels">models</a>, <a href="https://github.com/AUTOMINDx">AUTOMINDx</a>, <a href="https://github.com/Jaimla">Intelligent Agents</a>, <a href="https://github.com/webmindml/.github">WebGPU</a> and <a href="https://github.com/aiosml">AIOSML</a><br /><br /><br />
-<a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523076866398486535">codephreak manifesto first words</a>
+<a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523076866398486535">codephreak manifesto first words</a><br />
+
+Meet the T.E.A.M @ <a href="https://gpt.pythai.net">gpt.pythai.net</a><br />

@@ -11,7 +11,7 @@
 <a href="https://github.com/autoGLM/easyGLM/blob/main/README.md">easyGLM</a> easy General Learning Model<br />
 <a href="https://github.com/pythaiml/funAGI/blob/main/README.md">funAGI</a> fundamental augmented generative intelligence framework<br />
 <a href="https://github.com/easyAGI/ezAGI/blob/main/README.md">ezAGI</a> ezAGI internal reasoning with logging of conclusions as example<br />
-<a href="https://github.com/easyGLM/ezAGI">ezAGI</a> easy Autonomous General Intelligence non-integrated development version</a><br />
+<a href="https://github.com/easyGLM/ezAGI">ezAGIdevzone</a> easy Autonomous General Intelligence non-integrated development version</a><br />
 <a href="https://github.com/llamagi/lmagi">lmagi</a> first version of ollama integration with ez<br />
 <a href="https://github.com/easyAGI/">easyAGI</a> future home of easy Augmented Generative Intelligence<br />
 Professor Codephreak is currently working with a team creating the <a href="https://github.com/AUTOMINDx">AUTOMINDx</a> frontend. Professor Codephreak as a local language model version 2 can be found at <a href="https://github.com/pythaiml/automindx">automindx</a> and the alpha version evolution model is at <a href="https://github.com/autoGLM/README-md">aGLM</a><br /><br >

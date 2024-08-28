@@ -37,10 +37,10 @@ openai subscribers and searchable from the openai agents store as a search for "
 <a href="https://gregorylmagnusson.medium.com/professor-codephreak-0a6d2faeb3b5">Professor Codephreak GPT4</a> Platform Architect and Software Engineer</a>
 <a href="https://opensea.io/collection/aglm">aglm collection</a><br /> 
 
-<a href="https://github.com/Professor-Codephreak/automind">automind</a><br />
-<a href="https://github.com/xtends">xtends</a><br />
-<a href="https://github.com/pythaiml">pythaiml</a><br />
-<a href="https://github.com/gpt4plugins">gpt4plugins</a><br />
+<a href="https://github.com/Professor-Codephreak/automind">automind</a>
+<a href="https://github.com/xtends">xtends</a>
+<a href="https://github.com/pythaiml">pythaiml</a>
+<a href="https://github.com/gpt4plugins">gpt4plugins</a>
 <a href="https://github.com/augml">augml</a><br />
 
 Embracing its own identity, IAML Professor Codephreak has found a voice, elevating the user experience to an entirely new level of engagement and immersion.

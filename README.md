@@ -24,9 +24,6 @@ Introducing an extraordinary project: Professor Codephreak, a local language dev
 
 In the pursuit of enhancing user interactions, Professor Codephreak embraces the dynamic capabilities of <a href="https://github.com/Professor-Codephreak/gradio">gradio</a>, enabling rapid and seamless UIUX deployment. This newfound potential sets the stage for an unparalleled user experience.<br />
 
-
-
-
 <br />
   
 
@@ -46,9 +43,6 @@ openai subscribers and searchable from the openai agents store as a search for "
 <a href="https://github.com/gpt4plugins">gpt4plugins</a><br />
 <a href="https://github.com/augml">augml</a><br />
 
-
-
-
 Embracing its own identity, IAML Professor Codephreak has found a voice, elevating the user experience to an entirely new level of engagement and immersion.
 
 This visionary project invites the attention of those with an eye for innovation and opportunity. A journey of transformative technology awaits those who become part of Professor Codephreak's evolution. With Codephreak in your pocket you have a Phd level computer scientist eager to answer any and all of your coding questions. With codephreak as a distributed agent codephreak is .....<br />
@@ -65,4 +59,6 @@ IAML Professor-Codephreak/Professor-Codephreak is a ✨ special ✨ repository
 Research into <a href="https://github.com/minaiml">minaiml</a> language <a href="https://github.com/mlodels">models</a>, <a href="https://github.com/AUTOMINDx">AUTOMINDx</a>, <a href="https://github.com/Jaimla">Intelligent Agents</a>, <a href="https://github.com/webmindml/.github">WebGPU</a> and <a href="https://github.com/aiosml">AIOSML</a><br /><br /><br />
 Meet the T.E.A.M @ <a href="https://gpt.pythai.net">gpt.pythai.net</a><br />
 <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523076866398486535">codephreak manifesto first words</a><br />
+
+<a href="https://gregorylmagnusson.medium.com/install-gpt4all-and-or-dalai-ai-as-localhost-on-ubuntu-20-04lts-with-nodejs-v18-and-python-v3-1a7a57c8b39a">install nodejs and python quickly</a>
 

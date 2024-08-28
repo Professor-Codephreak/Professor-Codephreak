@@ -65,7 +65,7 @@ Meet the T.E.A.M @ <a href="https://gpt.pythai.net">gpt.pythai.net</a><br />
 <a href="https://github.com/idmanagement">I am who I am because of who I am</a><br />
 <a href="https://github.com/jaimla">I am the machine learning agent</a>
 <a href="https://github.com/mastmermindml">MASTERMIND</a> = control framework and creator of agency<br />
-<a href="https://github.com/mldaio">Decentralized Autonomous Intelligent Organization</a><br />
+<a href="https://github.com/mldaio">Decentralized Autonomous Intelligent Organization</a>
 <a href="https://github.com/lair3">LAIR3-BDK</a>
 <a href="https://github.com/deltavthrust-nft">NFT</a>
 <a href="https://github.com/thrustdrop">airdrops</a>

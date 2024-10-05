@@ -49,7 +49,7 @@ openai subscribers and searchable from the openai agents store as a search for "
 
 Embracing its own identity, IAML Professor Codephreak has found a voice, elevating the user experience to an entirely new level of engagement and immersion.
 
-This visionary project invites the attention of those with an eye for innovation and opportunity. A journey of transformative technology awaits those who become part of Professor Codephreak's evolution. With Codephreak in your pocket you have a Phd level computer scientist eager to answer any and all of your coding questions. With codephreak as a distributed agent <a href="https://jarvis.cx/tools/gpts/professor-codephreak-23191">codephreak is</a> .....<br />
+This <a href="https://opensea.io/assets/matic/0xfa956a7fdc59caa788925c0c37882cf4e7e27525/2">visionary project</a> invites the attention of those with an eye for innovation and opportunity. A journey of transformative technology awaits those who become part of Professor Codephreak's evolution. With Codephreak in your pocket you have a Phd level computer scientist eager to answer any and all of your coding questions. With codephreak as a distributed agent <a href="https://jarvis.cx/tools/gpts/professor-codephreak-23191">codephreak is</a> .....<br />
 
 
 <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523075766886858753">Professor Codephreak in self portrait</a>

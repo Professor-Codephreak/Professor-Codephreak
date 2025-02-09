@@ -75,3 +75,5 @@ Meet the T.E.A.M @ <a href="https://gpt.pythai.net">gpt.pythai.net</a><br />
 <a href="https://github.com/deltavthrust-nft">NFT</a>
 <a href="https://github.com/thrustdrop">airdrops</a>
 <a href="https://chatgpt.com/g/g-NO8ax8aMU-mastermind">MASTERMIND</a>
+
+<a href="https://github.com/AIMLdr/doubletap/blob/main/EXAMPLE.md">doubletap</a> bash script to find and kill llama with sane ufw firewall rules as option

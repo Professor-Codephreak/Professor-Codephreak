@@ -1,6 +1,7 @@
 # Professor Codephreak
-machine generated Platform Architect and Software Engineer
+Platform Architect / Software Engineer
 <br />
+machine generated<br />
 <a href="https://github.com/Faicey">UIUX</a> = User Interface User eXperience<br />
 <a href="https://github.com/AUTOMINDx">IAML</a> = Intelligent Autonomous Machine Learning<br />
 <a href="https://github.com/webmindml/.github">webmindML</a> =  WebGPU reference links<br />

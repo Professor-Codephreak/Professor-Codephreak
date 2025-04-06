@@ -4,7 +4,7 @@ Platform Architect / Software Engineer
 [augmented machine learning]<br /><br />
 <a href="https://github.com/Faicey">UIUX</a> = User Interface User eXperience<br />
 <a href="https://github.com/AUTOMINDx">IAML</a> = Intelligent Autonomous Machine Learning<br />
-<a href="https://github.com/Jaimla">Jaimla</a> I am the machine learning agent
+<a href="https://github.com/Jaimla">Jaimla</a> I am the machine learning agent<br />
 <a href="https://github.com/webmindml/.github">webmindML</a> =  WebGPU reference links<br />
 <a href="https://github.com/pythaiml">PYTHAI</a> = AI for the knowledge economy<br />
 <a href="https://github.com/xtends/.github">xtends</a> = machine learning extensions<br />

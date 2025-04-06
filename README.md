@@ -1,7 +1,7 @@
 # Professor Codephreak
 Platform Architect / Software Engineer
 <br />
-```txt
+```md
 [augmented machine learning]<br /><br />
 <a href="https://github.com/Faicey">UIUX</a>                                 = User Interface User eXperience<br />
 <a href="https://github.com/AUTOMINDx">IAML</a>                              = Intelligent Autonomous Machine Learning<br />

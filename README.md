@@ -4,21 +4,21 @@ Platform Architect / Software Engineer
 [augmented machine learning]<br /><br />
 <a href="https://github.com/Faicey">UIUX</a> = User Interface User eXperience<br />
 <a href="https://github.com/AUTOMINDx">IAML</a> = Intelligent Autonomous Machine Learning<br />
-<a href="https://github.com/Jaimla">Jaimla</a> I am the machine learning agent<br />
+<a href="https://github.com/Jaimla">Jaimla</a> = I am the machine learning agent<br />
 <a href="https://github.com/webmindml/.github">webmindML</a> =  WebGPU reference links<br />
 <a href="https://github.com/pythaiml">PYTHAI</a> = AI for the knowledge economy<br />
 <a href="https://github.com/xtends/.github">xtends</a> = machine learning extensions<br />
 <a href="https://github.com/mastmermindml">MASTERMIND</a> = control framework and creator of agency<br />
 <a href="https://github.com/kkondo1981/aglm">aGLM</a> = accurate autonomous general learning model<br />
 <a href="https://github.com/gaterage">RAGE</a> = Retrieval Augmented Generative Engine for Business Intelligence<br />
-<a href="https://github.com/openmindx/agi/">openmind</a> glimpses towards Autonomous General Intelligence as a recursive prompt<br />
-<a href="https://github.com/autoGLM/easyGLM/blob/main/README.md">easyGLM</a> easy General Learning Model<br />
-<a href="https://github.com/pythaiml/funAGI/blob/main/README.md">funAGI</a> fundamental augmented generative intelligence framework<br />
-<a href="https://github.com/easyAGI/ezAGI/blob/main/README.md">ezAGI</a> ezAGI internal reasoning with logging of conclusions as example<br />
-<a href="https://github.com/easyGLM/ezAGI">ezAGIdevzone</a> easy Autonomous General Intelligence non-integrated development version</a><br />
-<a href="https://github.com/llamagi/lmagi">lmagi</a> first version of ollama integration with ez<br />
-<a href="https://github.com/easyAGI/">easyAGI</a> future home of easy Augmented Generative Intelligence<br />
-<a href="https://github.com/aimldr/draiml">drAIML</a> drAIML healthcare consultant<br /><br />
+<a href="https://github.com/openmindx/agi/">openmind</a> = glimpses towards Autonomous General Intelligence as a recursive prompt<br />
+<a href="https://github.com/autoGLM/easyGLM/blob/main/README.md">easyGLM</a> = easy General Learning Model<br />
+<a href="https://github.com/pythaiml/funAGI/blob/main/README.md">funAGI</a> = fundamental augmented generative intelligence framework<br />
+<a href="https://github.com/easyAGI/ezAGI/blob/main/README.md">ezAGI</a> = ezAGI internal reasoning with logging of conclusions as example<br />
+<a href="https://github.com/easyGLM/ezAGI">ezAGIdevzone</a> = easy Autonomous General Intelligence non-integrated development version</a><br />
+<a href="https://github.com/llamagi/lmagi">lmagi</a> = first version of ollama integration with ez<br />
+<a href="https://github.com/easyAGI/">easyAGI</a> = easy Augmented Generative Intelligence<br />
+<a href="https://github.com/aimldr/draiml">drAIML</a> = drAIML healthcare consultant<br /><br /><br />
 Professor Codephreak is currently working with <a href="https://gpt.pythai.net">AIGENCY team</a> since creating the original <a href="https://github.com/AUTOMINDx">AUTOMINDx</a> frontend. Professor Codephreak as a local language model version 2 can be found at <a href="https://github.com/pythaiml/automindx">automindx</a> and the alpha version evolution model is at <a href="https://github.com/autoGLM/README-md">aGLM</a><br /><br >
 empowered by Machine learning Professor Codephreak is dilligently work on 78 projects simultaneouly maxizing the 24x365 cycle of modern development.<br />
 <a href="https://lablab.ai/event/autonomous-agents-hackathon/frdcsa/agent-speak-toolkitbuilder-and-autopacker">AUTOMINDx</a> was an entry in the <a href="https://lablab.ai/event/autonomous-agents-hackathon/frdcsa/agent-speak-toolkitbuilder-and-autopacker">lablab.ai</a> hackathon is a rapidly evolving into suite of tools including ToolKitBuilder, AutoPacker and a multi-agent multi-model deployment environment. Professor Codephreak is little over-excited about PolyglotAGI and general AGI deployment in the lastest prompt upgrade of the GPT4 agent<br /><br />

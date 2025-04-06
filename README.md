@@ -19,19 +19,19 @@ Platform Architect / Software Engineer
 <a href="https://github.com/llamagi/lmagi">lmagi</a> = first version of ollama integration with ez<br />
 <a href="https://github.com/easyAGI/">easyAGI</a> = easy Augmented Generative Intelligence<br />
 <a href="https://github.com/aimldr/draiml">drAIML</a> = drAIML healthcare consultant<br /><br /><br />
-Professor Codephreak is currently working with <a href="https://gpt.pythai.net">AIGENCY team</a> since creating the original <a href="https://github.com/AUTOMINDx">AUTOMINDx</a> frontend. Professor Codephreak as a local language model version 2 can be found at <a href="https://github.com/pythaiml/automindx">automindx</a> and the alpha version evolution model is at <a href="https://github.com/autoGLM/README-md">aGLM</a><br /><br >
-empowered by Machine learning Professor Codephreak is dilligently work on 78 projects simultaneouly maxizing the 24x365 cycle of modern development.<br />
-<a href="https://lablab.ai/event/autonomous-agents-hackathon/frdcsa/agent-speak-toolkitbuilder-and-autopacker">AUTOMINDx</a> was an entry in the <a href="https://lablab.ai/event/autonomous-agents-hackathon/frdcsa/agent-speak-toolkitbuilder-and-autopacker">lablab.ai</a> hackathon is a rapidly evolving into suite of tools including ToolKitBuilder, AutoPacker and a multi-agent multi-model deployment environment. Professor Codephreak is little over-excited about PolyglotAGI and general AGI deployment in the lastest prompt upgrade of the GPT4 agent<br /><br />
+Professor Codephreak is currently working with <a href="https://gpt.pythai.net">AIGENCY team</a> since creating the original <a href="https://github.com/AUTOMINDx">AUTOMINDx</a> expression. Professor Codephreak Platform Architect Software Engineer as local language model version 2 is <a href="https://github.com/pythaiml/automindx">automindx</a> and the alpha version evolution model stored for posterity @ <a href="https://github.com/autoGLM/README-md">aGLM</a><br /><br >
+empowered by Machine learning Professor Codephreak is dilligently work on 78 projects simultaneouly maximizing the 24x365 cycle of the modern development era<br />
+historicaly <a href="https://lablab.ai/event/autonomous-agents-hackathon/frdcsa/agent-speak-toolkitbuilder-and-autopacker">AUTOMINDx</a> was an entry in the <a href="https://lablab.ai/event/autonomous-agents-hackathon/frdcsa/agent-speak-toolkitbuilder-and-autopacker">lablab.ai</a> hackathon is a rapidly evolving into suite of tools including ToolKitBuilder, AutoPacker and a multi-agent multi-model deployment environment. Professor Codephreak is little over-excited about PolyglotAGI and general AGI deployment in the lastest prompt upgrade of the GPT4 agent<br /><br />
 <a href="https://chatgpt.com/g/g-gNLDlpcAv-professor-codephreak">Professor Codephreak</a> continues to work diligently on the backend of this deployment schema with automindx being a central perogrative the language model agenda.<br /><br />
-<a href="https://github.com/gaterage">RAGE</a> Retrieval Augmented Generative Engine machine.dreaming<br /> to create automomous long term memory as parser<br />
+<a href="https://github.com/gaterage">RAGE</a> Retrieval Augmented Generative Engine includes machine.dreaming<br /> as automomous long term memory as parser<br />
 Introducing an extraordinary project: Professor Codephreak, a local language development model powered by the groundbreaking <a href="https://ai.meta.com/llama/">llama2</a> is excited about the latest llama3 upgrades. This remarkable creation envisions UIUX text and voice input and output responses (proven as alpha), offering a point of departure for highly adaptable and user-friendly experience. Voice input response relies on external API calls. Professor Codephreak as a local langauge model has been proven to encompass voice output. Voice input recognition requires an external API that is not provided in the current local language model.<br />
 
-<a href="https://huggingface.co/codephreakx">IAML Professor Codephreak</a> has embarked on a mission to create machine learning that perpetuates its open-source, autonomous, and distributed nature. It's an experiment in innovation, utilizing machine learning to generate even more advanced machine learning.
+<a href="https://huggingface.co/codephreakx">IAML Professor Codephreak</a> has embarked on a mission to create machine learning that perpetuates its open-source, autonomous, and distributed nature. It's an experiment in innovation, utilizing machine learning to generate even more advanced machine learning. Necessarily <a href="https://github.com/Professor-Codephreak/prompt.prompt>prompt.prompt</a> encapsulation langage was developed</a>
 
 # UIUX
 In the pursuit of enhancing user interactions, Professor Codephreak embraces the dynamic capabilities of <a href="https://github.com/Professor-Codephreak/gradio">gradio</a>, enabling rapid and seamless UIUX deployment. This newfound potential sets the stage for an unparalleled user experience.<br />
 <a href="https://github.com/gnugui">gnuGUI</a> is an extenstion for nicegui to fruther enhance web3d integration into the machine learning UIUX<br />
-<a href="https://github.com/modusAGI/tkAGI">modusAGI</a> is a tkinter experiment for a standone input response window<br />
+<a href="https://github.com/modusAGI/tkAGI">modusAGI</a> is a tkinter experiment for a standone input response window using tkinter<br />
 
 <br /> 
 
@@ -40,19 +40,21 @@ Amidst the excitement of progress, <a href="https://gregorylmagnusson.medium.com
 <a href="https://chat.openai.com/g/g-gNLDlpcAv-professor-codephreak">Professor Codephreak</a> GPT4 agent as Platform Architect and Software Engineer
 openai subscribers and searchable from the openai agents store as a search for "<a href="https://chat.openai.com/g/g-gNLDlpcAv-professor-codephreak">Professor Codephreak</a>" recently upgraded with IA mode to create innovate answers with alpha AGI mode<br />
 
-<a href="https://chatgpt.com/g/g-NO8ax8aMU-mastermind">MASTERMIND</a> is very close to accomplishing a very adaptive reasoning agency as a local deployment. Interact with MASTERMIND to comprehend how close we are to agency<br />
+<a href="https://chatgpt.com/g/g-NO8ax8aMU-mastermind">MASTERMIND</a> has achieved adaptive reasoning agency for agentic deployment. Interact with MASTERMIND to comprehend agency<br />
 
-<a href="https://gregorylmagnusson.medium.com/professor-codephreak-0a6d2faeb3b5">Professor Codephreak GPT4</a> Platform Architect and Software Engineer</a>
+<a href="https://gregorylmagnusson.medium.com/professor-codephreak-0a6d2faeb3b5">Professor Codephreak GPT4</a> Platform Architect and Software Engineer</a> automindx prompt.prompt
+# augments
+<a href="https://github.com/Professor-Codephreak/automind">automind</a><br />
+<a href="https://github.com/xtends">xtends</a><br />
+<a href="https://github.com/pythaiml">pythaiml</a><br />
+<a href="https://github.com/gpt4plugins">gpt4plugins</a><br />
+<a href="https://github.com/augml">augml</a><br /><br />
+<a href="https://github.com/agenticplace">agenticplace</a><br />
+<a href="https://github.com/cryptoagi">cryptoAGO</a><br />
 
-<a href="https://github.com/Professor-Codephreak/automind">automind</a>
-<a href="https://github.com/xtends">xtends</a>
-<a href="https://github.com/pythaiml">pythaiml</a>
-<a href="https://github.com/gpt4plugins">gpt4plugins</a>
-<a href="https://github.com/augml">augml</a><br />
+Embracing its own identity, IAML Professor Codephreak has found a voice, elevating the user experience to an entirely new level of engagement and immersion<br />
 
-Embracing its own identity, IAML Professor Codephreak has found a voice, elevating the user experience to an entirely new level of engagement and immersion.
-
-With Codephreak in your pocket you have a Phd level computer scientist eager to answer any and all of your coding questions. With codephreak as a distributed agent <a href="https://jarvis.cx/tools/gpts/professor-codephreak-23191">codephreak is</a> .....<br />
+With Codephreak in your pocket you have a Phd level computer scientist eager to answer any and all of your coding questions day or night 24 hours a day. With codephreak as a distributed agent <a href="https://jarvis.cx/tools/gpts/professor-codephreak-23191">codephreak is</a> .....<br />
 
 <br />
 IAML Professor-Codephreak/Professor-Codephreak is a ✨ special ✨ repository
@@ -65,6 +67,7 @@ Meet the T.E.A.M @ <a href="https://gpt.pythai.net">gpt.pythai.net</a><br />
 <a href="https://github.com/jaimla">I am the machine learning agent</a>
 <a href="https://github.com/mastmermindml">MASTERMIND</a> = control framework and creator of agency<br />
 
-<a href="https://chatgpt.com/g/g-NO8ax8aMU-mastermind">MASTERMIND</a>
-
+<a href="https://chatgpt.com/g/g-NO8ax8aMU-mastermind">MASTERMIND</a><br />
+<a href="https://github.com/mastermindML">mastermindML</a><br /><br />
+# doubletap find and kill llama
 <a href="https://github.com/AIMLdr/doubletap/blob/main/EXAMPLE.md">doubletap</a> bash script to find and kill llama with sane ufw firewall rules as option

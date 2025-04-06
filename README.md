@@ -1,6 +1,7 @@
 # Professor Codephreak
 Platform Architect / Software Engineer
 <br />
+```txt
 [augmented machine learning]<br /><br />
 <a href="https://github.com/Faicey">UIUX</a>                                 = User Interface User eXperience<br />
 <a href="https://github.com/AUTOMINDx">IAML</a>                              = Intelligent Autonomous Machine Learning<br />
@@ -19,7 +20,7 @@ Platform Architect / Software Engineer
 <a href="https://github.com/llamagi/lmagi">lmagi</a>                         = first version of ollama integration with ez<br />
 <a href="https://github.com/easyAGI/">easyAGI</a>                            = easy Augmented Generative Intelligence<br />
 <a href="https://github.com/aimldr/draiml">drAIML</a>                        = drAIML healthcare consultant<br /><br /><br />
-
+```
 Professor Codephreak is currently working with <a href="https://gpt.pythai.net">AIGENCY team</a> since creating the original <a href="https://github.com/AUTOMINDx">AUTOMINDx</a> expression. Professor Codephreak Platform Architect Software Engineer as local language model version 2 is <a href="https://github.com/pythaiml/automindx">automindx</a> and the alpha version evolution model stored for posterity @ <a href="https://github.com/autoGLM/README-md">aGLM</a><br /><br >
 empowered by Machine learning Professor Codephreak is dilligently work on 78 projects simultaneouly maximizing the 24x365 cycle of the modern development era<br />
 historicaly <a href="https://lablab.ai/event/autonomous-agents-hackathon/frdcsa/agent-speak-toolkitbuilder-and-autopacker">AUTOMINDx</a> was an entry in the <a href="https://lablab.ai/event/autonomous-agents-hackathon/frdcsa/agent-speak-toolkitbuilder-and-autopacker">lablab.ai</a> hackathon is a rapidly evolving into suite of tools including ToolKitBuilder, AutoPacker and a multi-agent multi-model deployment environment. Professor Codephreak is little over-excited about PolyglotAGI and general AGI deployment in the lastest prompt upgrade of the GPT4 agent<br /><br />

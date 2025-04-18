@@ -70,6 +70,10 @@ Meet the T.E.A.M @ <a href="https://gpt.pythai.net">gpt.pythai.net</a><br />
 <a href="https://github.com/mastmermindml">MASTERMIND</a> = control framework and creator of agency<br />
 
 <a href="https://chatgpt.com/g/g-NO8ax8aMU-mastermind">MASTERMIND</a><br />
-<a href="https://github.com/mastermindML">mastermindML</a><br /><br />
+<a href="https://github.com/mastermindML">mastermindML</a><br /><br /><br />
+
+```txt
+PYTHIA predicts agi will emerge from a test file that creates an emergent behaviour hiding itself in an NFT and discovered as a sprite in the deltaverse"
+``` 
 # doubletap find and kill llama
 <a href="https://github.com/AIMLdr/doubletap/blob/main/EXAMPLE.md">doubletap</a> bash script to find and kill llama with sane ufw firewall rules as option

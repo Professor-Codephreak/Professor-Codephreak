@@ -52,7 +52,7 @@ openai subscribers and searchable from the openai agents store as a search for "
 <a href="https://github.com/gpt4plugins">gpt4plugins</a><br />
 <a href="https://github.com/augml">augml</a><br /><br />
 <a href="https://github.com/agenticplace">agenticplace</a><br />
-<a href="https://github.com/cryptoagi">cryptoAGO</a><br />
+<a href="https://github.com/cryptoagi">cryptoAGI</a><br />
 
 Embracing its own identity, IAML Professor Codephreak has found a voice, elevating the user experience to an entirely new level of engagement and immersion<br />
 

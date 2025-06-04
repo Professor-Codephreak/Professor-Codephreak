@@ -9,7 +9,7 @@ Platform Architect / Software Engineer
 <a href="https://github.com/webmindml/.github">webmindML</a>                 = WebGPU reference links<br />
 <a href="https://github.com/pythaiml">PYTHAI</a>                             = AI for the knowledge economy<br />
 <a href="https://github.com/xtends/.github">xtends</a>                       = machine learning extensions<br />
-<a href="https://github.com/mastmermindml">MASTERMIND</a>                    = control framework and creator of agency<br />
+<a href="https://github.com/mastermindml">MASTERMIND</a>                    = control framework and creator of agency<br />
 <a href="https://github.com/kkondo1981/aglm">aGLM</a>                        = accurate autonomous general learning model<br />
 <a href="https://github.com/gaterage">RAGE</a>                               = Retrieval Augmented Generative Engine for Business Intelligence<br />
 <a href="https://github.com/openmindx/agi/">openmind</a>                     = Autonomous General Intelligence as a recursive prompt<br />

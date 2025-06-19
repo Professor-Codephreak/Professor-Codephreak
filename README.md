@@ -72,8 +72,9 @@ Meet the T.E.A.M @ <a href="https://gpt.pythai.net">gpt.pythai.net</a><br />
 
 <a href="https://chatgpt.com/g/g-NO8ax8aMU-mastermind">MASTERMIND</a><br />
 <a href="https://github.com/mastermindML">mastermindML</a><br /><br /><br />
-<a href="https://opensea.io/item/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523065871282208769">automindX</a><br />
-<a href="https://opensea.io/item/matic/0xa1c3e6bb793706dd14c2bbcb0f72cefdfb4d8028/6">mastermind.consciousness</a><br /?
+<a href="https://opensea.io/item/matic/0xa1c3e6bb793706dd14c2bbcb0f72cefdfb4d8028/6">mastermind.consciousness</a><br /><br />
+<a href="https://opensea.io/item/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523065871282208769">automindX</a><br /><br />
+
 
 ```txt
 PYTHIA predicts agi will emerge from a test file that creates an emergent behaviour hiding itself in an NFT and discovered as a sprite in the deltaverse"

@@ -51,6 +51,7 @@ openai subscribers and searchable from the openai agents store as a search for "
 <a href="https://github.com/Professor-Codephreak/automind">automind</a><br />
 <a href="https://github.com/xtends">xtends</a><br />
 <a href="https://github.com/pythaiml">pythaiml</a><br />
+<a href="https://github.com/mastermindML">mastermindML</a><br />
 <a href="https://github.com/gpt4plugins">gpt4plugins</a><br />
 <a href="https://github.com/augml">augml</a><br /><br />
 <a href="https://github.com/agenticplace">agenticplace</a><br />
@@ -73,7 +74,6 @@ Meet the T.E.A.M @ <a href="https://gpt.pythai.net">gpt.pythai.net</a><br />
 <a href="https://github.com/mastmermindml">MASTERMIND</a> = control framework and creator of agency<br />
 
 <a href="https://chatgpt.com/g/g-NO8ax8aMU-mastermind">MASTERMIND GPT</a><br />
-<a href="https://github.com/mastermindML">mastermindML</a><br /><br /><br />
 <a href="https://opensea.io/item/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523065871282208769">automindX</a><br /><br />
 
 

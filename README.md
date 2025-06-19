@@ -1,8 +1,8 @@
 # Professor Codephreak
 Platform Architect / Software Engineer<br />
+<a href="https://chatgpt.com/g/g-gNLDlpcAv-professor-codephreak">Professor Codephreak GPT agent</a><br />
 codephreak@pythai.net<br />
-<a href="https://chatgpt.com/g/g-gNLDlpcAv-professor-codephreak">Professor Codephreak GPT agent</a>
-<br />
+
 
 [augmented machine learning]<br /><br />
 <a href="https://github.com/Faicey">UIUX</a>                                 = User Interface User eXperience<br />

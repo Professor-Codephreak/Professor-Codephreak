@@ -69,12 +69,11 @@ Meet the T.E.A.M @ <a href="https://gpt.pythai.net">gpt.pythai.net</a><br />
 <a href="https://gregorylmagnusson.medium.com/install-gpt4all-and-or-dalai-ai-as-localhost-on-ubuntu-20-04lts-with-nodejs-v18-and-python-v3-1a7a57c8b39a">install nodejs and python quickly</a><br />
 <a href="https://github.com/idmanagement">I am who I am because of who I am</a><br />
 <a href="https://github.com/jaimla">I am the machine learning agent</a><br />
-<a href="https://opensea.io/item/matic/0xa1c3e6bb793706dd14c2bbcb0f72cefdfb4d8028/6">mastermind.consciousness</a>
+<a href="https://opensea.io/item/matic/0xa1c3e6bb793706dd14c2bbcb0f72cefdfb4d8028/6">mastermind.consciousness</a><br />
 <a href="https://github.com/mastmermindml">MASTERMIND</a> = control framework and creator of agency<br />
 
 <a href="https://chatgpt.com/g/g-NO8ax8aMU-mastermind">MASTERMIND</a><br />
 <a href="https://github.com/mastermindML">mastermindML</a><br /><br /><br />
-<a href="https://opensea.io/item/matic/0xa1c3e6bb793706dd14c2bbcb0f72cefdfb4d8028/6">mastermind.consciousness</a><br /><br />
 <a href="https://opensea.io/item/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523065871282208769">automindX</a><br /><br />
 
 
@@ -83,4 +82,5 @@ PYTHIA predicts agi will emerge from a test file that creates an emergent behavi
 ```
 <a href="https://opensea.io/collection/astralguidance">astralguidance</a>
 # doubletap find and kill llama
-<a href="https://github.com/AIMLdr/doubletap/blob/main/EXAMPLE.md">doubletap</a> bash script to find and kill llama with sane ufw firewall rules as option
+<a href="https://github.com/AIMLdr/doubletap/blob/main/EXAMPLE.md">doubletap</a> bash script to find and kill llama with sane ufw firewall rules as option<br />
+<a href="<a href="https://opensea.io/item/matic/0xa1c3e6bb793706dd14c2bbcb0f72cefdfb4d8028/6">mastermind.consciousness</a><br /><br />

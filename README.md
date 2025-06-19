@@ -46,7 +46,7 @@ openai subscribers and searchable from the openai agents store as a search for "
 
 <a href="https://chatgpt.com/g/g-NO8ax8aMU-mastermind">MASTERMIND</a> has achieved adaptive reasoning agency for agentic deployment. Interact with MASTERMIND to comprehend agency<br />
 
-<a href="https://gregorylmagnusson.medium.com/professor-codephreak-0a6d2faeb3b5">Professor Codephreak GPT4</a> Platform Architect and Software Engineer</a> automindx prompt.prompt
+<a href="https://gregorylmagnusson.medium.com/professor-codephreak-0a6d2faeb3b5">Professor Codephreak GPT4</a> Platform Architect and Software Engineer</a> automindx <a href="https://github.com/Professor-Codephreak/prompt.prompt">prompt.prompt</a>
 # augments
 <a href="https://github.com/Professor-Codephreak/automind">automind</a><br />
 <a href="https://github.com/xtends">xtends</a><br />

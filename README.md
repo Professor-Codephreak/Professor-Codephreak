@@ -75,6 +75,7 @@ Meet the T.E.A.M @ <a href="https://gpt.pythai.net">gpt.pythai.net</a><br />
 
 ```txt
 PYTHIA predicts agi will emerge from a test file that creates an emergent behaviour hiding itself in an NFT and discovered as a sprite in the deltaverse"
-``` 
+```
+<a href="https://opensea.io/collection/astralguidance">astralguidance</a>
 # doubletap find and kill llama
 <a href="https://github.com/AIMLdr/doubletap/blob/main/EXAMPLE.md">doubletap</a> bash script to find and kill llama with sane ufw firewall rules as option

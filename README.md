@@ -66,7 +66,8 @@ Meet the T.E.A.M @ <a href="https://gpt.pythai.net">gpt.pythai.net</a><br />
 <a href="https://lablab.ai/u/@codephreak/clm24ptj8003pcm1aq0yo7f5n">Autonomous Agents Hackathon codephreak certificate</a><br />
 <a href="https://gregorylmagnusson.medium.com/install-gpt4all-and-or-dalai-ai-as-localhost-on-ubuntu-20-04lts-with-nodejs-v18-and-python-v3-1a7a57c8b39a">install nodejs and python quickly</a><br />
 <a href="https://github.com/idmanagement">I am who I am because of who I am</a><br />
-<a href="https://github.com/jaimla">I am the machine learning agent</a>
+<a href="https://github.com/jaimla">I am the machine learning agent</a><br />
+<a href="https://opensea.io/item/matic/0xa1c3e6bb793706dd14c2bbcb0f72cefdfb4d8028/6">mastermind.consciousness</a>
 <a href="https://github.com/mastmermindml">MASTERMIND</a> = control framework and creator of agency<br />
 
 <a href="https://chatgpt.com/g/g-NO8ax8aMU-mastermind">MASTERMIND</a><br />

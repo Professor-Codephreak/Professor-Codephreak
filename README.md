@@ -1,5 +1,6 @@
 # Professor Codephreak
-Platform Architect / Software Engineer
+Platform Architect / Software Engineer<br />
+codephreak@pythai.net
 <br />
 
 [augmented machine learning]<br /><br />

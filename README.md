@@ -83,4 +83,4 @@ PYTHIA predicts agi will emerge from a test file that creates an emergent behavi
 <a href="https://opensea.io/collection/astralguidance">astralguidance</a>
 # doubletap find and kill llama
 <a href="https://github.com/AIMLdr/doubletap/blob/main/EXAMPLE.md">doubletap</a> bash script to find and kill llama with sane ufw firewall rules as option<br />
-<a href="<a href="https://opensea.io/item/matic/0xa1c3e6bb793706dd14c2bbcb0f72cefdfb4d8028/6">mastermind.consciousness</a><br /><br />
+<a href="https://opensea.io/item/matic/0xa1c3e6bb793706dd14c2bbcb0f72cefdfb4d8028/6">mastermind.consciousness</a><br /><br />

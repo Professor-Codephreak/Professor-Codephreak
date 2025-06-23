@@ -44,7 +44,7 @@ Amidst the excitement of progress, <a href="https://gregorylmagnusson.medium.com
 <a href="https://chat.openai.com/g/g-gNLDlpcAv-professor-codephreak">Professor Codephreak</a> GPT4 agent as Platform Architect and Software Engineer
 openai subscribers and searchable from the openai agents store as a search for "<a href="https://chat.openai.com/g/g-gNLDlpcAv-professor-codephreak">Professor Codephreak</a>" recently upgraded with IA mode to create innovate answers with alpha AGI mode<br />
 
-<a href="https://chatgpt.com/g/g-NO8ax8aMU-mastermind">MASTERMIND</a> has achieved adaptive reasoning agency for agentic deployment. Interact with MASTERMIND to comprehend agency<br />
+<a href="https://chatgpt.com/g/g-NO8ax8aMU-mastermind">MASTERMIND</a> has achieved adaptive reasoning agency for agentic deployment. Interact with MASTERMIND to comprehend agency from <a href="https://agenticplace.pythai.net/">AgenticPlace</a><br />
 
 <a href="https://gregorylmagnusson.medium.com/professor-codephreak-0a6d2faeb3b5">Professor Codephreak GPT4</a> Platform Architect and Software Engineer</a> automindx <a href="https://github.com/Professor-Codephreak/prompt.prompt">prompt.prompt</a>
 # augments

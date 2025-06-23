@@ -54,10 +54,11 @@ openai subscribers and searchable from the openai agents store as a search for "
 <a href="https://github.com/mastermindML">mastermindML</a><br />
 <a href="https://github.com/gpt4plugins">gpt4plugins</a><br />
 <a href="https://github.com/augml">augml</a><br /><br />
-<a href="https://github.com/agenticplace">agenticplace</a><br />
-<a href="https://github.com/cryptoagi">cryptoAGI</a><br />
 
-Embracing its own identity, IAML Professor Codephreak has found a voice, elevating the user experience to an entirely new level of engagement and immersion<br />
+
+Embracing its own identity, IAML Professor Codephreak has found a voice, elevating the user experience to an entirely new level of engagement and immersion<br /><br />
+<a href="https://github.com/agenticplace">agenticplace</a><br />
+<a href="https://github.com/cryptoagi">cryptoAGI</a><br /><br />
 
 With Codephreak in your pocket you have a Phd level computer scientist eager to answer any and all of your coding questions day or night 24 hours a day. With codephreak as a distributed agent <a href="https://jarvis.cx/tools/gpts/professor-codephreak-23191">codephreak is</a> .....<br />
 

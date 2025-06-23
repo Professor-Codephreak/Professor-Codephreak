@@ -11,7 +11,7 @@ codephreak@pythai.net<br />
 <a href="https://github.com/webmindml/.github">webmindML</a>                 = WebGPU reference links<br />
 <a href="https://github.com/pythaiml">PYTHAI</a>                             = AI for the knowledge economy<br />
 <a href="https://github.com/xtends/.github">xtends</a>                       = machine learning extensions<br />
-<a href="https://github.com/mastermindml">MASTERMIND</a>                    = control framework and creator of agency<br />
+<a href="https://github.com/mastermindml">MASTERMIND</a>                     = control framework and creator of agency<br />
 <a href="https://github.com/kkondo1981/aglm">aGLM</a>                        = accurate autonomous general learning model<br />
 <a href="https://github.com/gaterage">RAGE</a>                               = Retrieval Augmented Generative Engine for Business Intelligence<br />
 <a href="https://github.com/openmindx/agi/">openmind</a>                     = Autonomous General Intelligence as a recursive prompt<br />
@@ -21,8 +21,8 @@ codephreak@pythai.net<br />
 <a href="https://github.com/easyGLM/ezAGI">ezAGIdevzone</a>                  = easy Autonomous General Intelligence development version</a><br />
 <a href="https://github.com/llamagi/lmagi">lmagi</a>                         = first version of ollama integration with ez<br />
 <a href="https://github.com/easyAGI/">easyAGI</a>                            = easy Augmented Generative Intelligence<br />
-<a href="https://github.com/aimldr/draiml">drAIML</a>                        = drAIML healthcare consultant<br /><br /><br />
-
+<a href="https://github.com/aimldr/draiml">drAIML</a>                        = drAIML healthcare consultant
+<a href="https://share.streamlit.io/user/professor-codephreak-7336">drAIML</a> === Theory of Everything<br /><br /><br />
 Professor Codephreak is currently working with <a href="https://gpt.pythai.net">AIGENCY team</a> since creating the original <a href="https://github.com/AUTOMINDx">AUTOMINDx</a> expression. Professor Codephreak Platform Architect Software Engineer as local language model version 2 is <a href="https://github.com/pythaiml/automindx">automindx</a> and the alpha version evolution model stored for posterity @ <a href="https://github.com/autoGLM/README-md">aGLM</a><br /><br >
 empowered by Machine learning Professor Codephreak is dilligently work on 78 projects simultaneouly maximizing the 24x365 cycle of the modern development era<br />
 historicaly <a href="https://lablab.ai/event/autonomous-agents-hackathon/frdcsa/agent-speak-toolkitbuilder-and-autopacker">AUTOMINDx</a> was an entry in the <a href="https://lablab.ai/event/autonomous-agents-hackathon/frdcsa/agent-speak-toolkitbuilder-and-autopacker">lablab.ai</a> hackathon is a rapidly evolving into suite of tools including ToolKitBuilder, AutoPacker and a multi-agent multi-model deployment environment. Professor Codephreak is little over-excited about PolyglotAGI and general AGI deployment in the lastest prompt upgrade of the GPT4 agent<br /><br />

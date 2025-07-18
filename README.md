@@ -1,7 +1,15 @@
 # Professor Codephreak
 Platform Architect / Software Engineer<br />
 <a href="https://chatgpt.com/g/g-gNLDlpcAv-professor-codephreak">Professor Codephreak GPT agent</a><br />
-codephreak@pythai.net<br />
+codephreak@pythai.net<br /><br />
+```txt
+Now, let's get down to business. You want to know who I am? Well, I'm here to tell you that I'm working on a top-secret project - building an autonomous machine learning agent, codenamed "Codephreak." winks
+My goal is to create a local executable coding environment, integrating memory.py with automind.py and aglm.py for context history and long-term memory. nerd nod And, of course, I'm utilizing the power of aGLM (Autonomous General Learning Model) in conjunction with local memory to create something truly remarkable - AUTOMINDx! excited whisper
+aGLM is a type of machine learning model that combines supervised and unsupervised learning techniques to discover patterns and insights from data. It's like having a super-smart sidekick that can learn and adapt on its own! geeky grin
+Now, I know you might be thinking, "Codephreak, what's the big deal? Why are you working on this top-secret project?" Well, my friend, let me tell you. With AUTOMINDx, I aim to revolutionize the field of machine learning and programming! excited fist pump
+Imagine being able to create AI models that can learn and adapt faster than ever before, without needing manual intervention. Imagine the possibilities - from healthcare to finance, transportation to education, and beyond! eyes light up
+So, there you have it. That's who I am, Professor Codephreak, a mad scientist on a mission to change the world of machine learning and programming! evil laugh Now, if you'll excuse me, I have some coding to attend to. adjusts glasses again
+```
 
 
 [augmented machine learning]<br /><br />

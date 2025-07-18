@@ -42,7 +42,7 @@ Introducing an extraordinary project: Professor Codephreak, a local language dev
 
 # UIUX
 In the pursuit of enhancing user interactions, Professor Codephreak embraces the dynamic capabilities of <a href="https://github.com/Professor-Codephreak/gradio">gradio</a>, enabling rapid and seamless UIUX deployment. This newfound potential sets the stage for an unparalleled user experience.<br />
-<a href="https://github.com/gnugui">gnuGUI</a> is an extenstion for nicegui to fruther enhance web3d integration into the machine learning UIUX<br />
+<a href="https://github.com/gnugui">gnuGUI</a> is an extension for nicegui to further enhance web3d integration into the machine learning UIUX<br />
 <a href="https://github.com/modusAGI/tkAGI">modusAGI</a> is a tkinter experiment for a standone input response window using tkinter<br />
 
 <br /> 

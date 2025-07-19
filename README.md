@@ -31,7 +31,7 @@ So, there you have it. That's who I am, Professor Codephreak, a mad scientist on
 <a href="https://github.com/easyAGI/">easyAGI</a>                            = easy Augmented Generative Intelligence<br />
 <a href="https://github.com/aimldr/draiml">drAIML</a>                        = drAIML healthcare consultant<br />
 <a href="https://share.streamlit.io/user/professor-codephreak-7336">Gutoe</a> === Theory of Everything<br />
-<a href="https://github.com/aion-net">AION</a><br /><br />
+<a href="https://github.com/aion-net">AION</a>                               = system.agent<br /><br />
 Professor Codephreak is currently working with <a href="https://gpt.pythai.net">AIGENCY team</a> since creating the original <a href="https://github.com/AUTOMINDx">AUTOMINDx</a> expression. Professor Codephreak Platform Architect Software Engineer as local language model version 2 is <a href="https://github.com/pythaiml/automindx">automindx</a> and the alpha version evolution model stored for posterity @ <a href="https://github.com/autoGLM/README-md">aGLM</a><br /><br >
 empowered by Machine learning Professor Codephreak is dilligently work on 78 projects simultaneouly maximizing the 24x365 cycle of the modern development era<br />
 historicaly <a href="https://opensea.io/item/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523065871282208769

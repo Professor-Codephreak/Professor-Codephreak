@@ -1,5 +1,5 @@
 # Professor Codephreak
-Platform Architect / Software Engineer<br />
+<a href="https://opensea.io/item/ethereum/0x52525cf31cc267d9635c38ec9ec99596f4664dc8/1">Platform Architect</a> / Software Engineer<br />
 <a href="https://chatgpt.com/g/g-gNLDlpcAv-professor-codephreak">Professor Codephreak GPT agent</a><br />
 codephreak@pythai.net<br /><br />
 ```txt

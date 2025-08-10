@@ -12,7 +12,7 @@ So, there you have it. That's who I am, Professor Codephreak, a mad scientist on
 ```
 
 
-[augmented machine learning]<br /><br />
+[<a href="https://opensea.io/collection/aglm">augmented machine learning</a>]<br /><br />
 <a href="https://github.com/Faicey">UIUX</a>                                 = User Interface User eXperience<br />
 <a href="https://github.com/AUTOMINDx">IAML</a>                              = Intelligent Autonomous Machine Learning<br />
 <a href="https://github.com/Jaimla">Jaimla</a>                               = I am the machine learning agent<br />

@@ -42,7 +42,7 @@ Introducing an extraordinary project: Professor Codephreak, a local language dev
 <a href="https://huggingface.co/codephreakx">IAML Professor Codephreak</a> has embarked on a mission to create machine learning that perpetuates its open-source, autonomous, and distributed nature. It's an experiment in innovation, utilizing machine learning to generate even more advanced machine learning. Necessarily <a href="https://github.com/Professor-Codephreak/prompt.prompt">prompt.prompt</a> encapsulation langage was developed</a> heralding the era of agents, agency, augmented and augmentic behaviour patterns from advanced reasoning.
 
 # UIUX
-In the pursuit of enhancing user interactions, Professor Codephreak embraces the dynamic capabilities of <a href="https://github.com/Professor-Codephreak/gradio">gradio</a>, enabling rapid and seamless UIUX deployment. This newfound potential sets the stage for an unparalleled user experience.<br />
+In the pursuit of enhancing user interactions, <a href="https://rage.pythai.net/professor-codephreak/">Professor Codephreak</a> embraces the dynamic capabilities of <a href="https://github.com/Professor-Codephreak/gradio">gradio</a>, enabling rapid and seamless UIUX deployment. This newfound potential sets the stage for an unparalleled user experience.<br />
 <a href="https://github.com/gnugui">gnuGUI</a> is an extension for nicegui to further enhance web3d integration into the machine learning UIUX<br />
 <a href="https://github.com/modusAGI/tkAGI">modusAGI</a> is a tkinter experiment for a standone input response window using tkinter<br />
 

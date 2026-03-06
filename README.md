@@ -87,7 +87,7 @@ Meet the T.E.A.M @ <a href="https://gpt.pythai.net">gpt.pythai.net</a><br />
 <a href="https://chatgpt.com/g/g-NO8ax8aMU-mastermind">MASTERMIND GPT</a><br />
 <a href="https://opensea.io/item/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523065871282208769">automindX</a><br /><br />
 
-launch and fund your own startup edition 1 <a href=://"https://lablab.ai/u/@tokindex/ai-hackathons/launch-fund-ai-meets-robotics/certificate">certificate of completion</a> for Professor Codephreak<br /><br />
+launch and fund your own startup edition 1 <a href="https://lablab.ai/u/@tokindex/ai-hackathons/launch-fund-ai-meets-robotics/certificate">certificate of completion</a>  
 
 
 ```txt

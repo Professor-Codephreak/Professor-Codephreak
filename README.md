@@ -192,7 +192,7 @@ IAML [Professor Codephreak](https://huggingface.co/codephreakx) has embarked on 
 
 | | |
 |-|-|
-| Website | [ai.pythai.net](https://gpt.pythai.net) |
+| Website | [gpt.pythai.net](https://gpt.pythai.net) |
 | bankonOS | [bankon.pythai.net](https://bankon.pythai.net) |
 | AgenticPlace | [agenticplace.pythai.net](https://agenticplace.pythai.net) |
 | GPT Agent | [Professor Codephreak](https://chatgpt.com/g/g-gNLDlpcAv-professor-codephreak) |

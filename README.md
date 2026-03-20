@@ -99,7 +99,7 @@ IAML [Professor Codephreak](https://huggingface.co/codephreakx) has embarked on 
 
 ---
 
-## Organizations (27)
+## Organizations (28)
 
 | Organization | Description | Link |
 |-------------|-------------|------|
@@ -122,13 +122,14 @@ IAML [Professor Codephreak](https://huggingface.co/codephreakx) has embarked on 
 | **abaracadabra** | Utterance as expression of will | [abaracadabra](https://github.com/abaracadabra) |
 | **cypherpunk2048** | Standard | [cypherpunk2048](https://github.com/cypherpunk2048) |
 | **PARSEC wallet** | Evolution of the cryptocurrency wallet | [parsec-wallet](https://github.com/parsec-wallet) |
-| **SPINTRADE** | DEX | [spintrade](https://github.com/spintrade) |
+| **SPINTRADE** | DEX + [smartmetamask](https://github.com/spintrade/smartmetamask) | [spintrade](https://github.com/spintrade) |
 | **abstractionwallet** | Wallet abstraction research | [abstractionwallet](https://github.com/abstractionwallet) |
 | **LAIR3** | Layer 3 Blockchain Deployment Kit | [LAIR3](https://github.com/LAIR3) |
 | **IPFS** | Interplanetary file system archive | [interplanetaryfilesystem](https://github.com/interplanetaryfilesystem) |
 | **bankonme** | Privacy, integrity, security — 452 repos | [bankonme](https://github.com/bankonme) |
 | **bankonmeOS** | You can bankon.me | [bankonmeOS](https://github.com/bankonmeOS) |
 | **bankonmecoin** | CryptoNote technology | [bankonmecoin](https://github.com/bankonmecoin) |
+| **dairef** | A general reference to programmable DAI | [dairef](https://github.com/dairef) |
 | **cryptocurrent** | Cryptocurrency development tools | [cryptocurrent](https://github.com/cryptocurrent) |
 | **Heads** | The libre privacy distro (forked, dormant since 2019) | [headslive](https://github.com/headslive) |
 
@@ -194,7 +195,7 @@ IAML [Professor Codephreak](https://huggingface.co/codephreakx) has embarked on 
 ---
 
 <p align="center">
-  <em>90+ repositories &middot; 27 organizations &middot; Since 2004</em><br>
+  <em>90+ repositories &middot; 28 organizations &middot; Since 2004</em><br>
   <strong>From MCSAP to bankonOS. From compiling Bitcoin wallets to hosting the agent economy.</strong><br>
   With <a href="https://opensea.io/item/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523057075189186561">Codephreak</a> in your pocket you have a PhD level computer scientist eager to answer any and all of your coding questions day or night 24 hours a day.
 </p>

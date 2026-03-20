@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://opensea.io/item/ethereum/0x52525cf31cc267d9635c38ec9ec99596f4664dc8/1">Platform Architect</a> / Software Engineer<br>
   <a href="https://chatgpt.com/g/g-gNLDlpcAv-professor-codephreak">Professor Codephreak GPT agent</a><br>
-  <a href="https://ai.pythai.net">ai.pythai.net</a> &middot; <a href="mailto:codephreak@pythai.net">codephreak@pythai.net</a> &middot; <a href="https://twitter.com/AIOSML">@AIOSML</a>
+  <a href="https://gpt.pythai.net">ai.pythai.net</a> &middot; <a href="mailto:codephreak@pythai.net">codephreak@pythai.net</a> &middot; <a href="https://twitter.com/AIOSML">@AIOSML</a>
 </p>
 
 ---
@@ -179,7 +179,7 @@ IAML [Professor Codephreak](https://huggingface.co/codephreakx) has embarked on 
 
 | | |
 |-|-|
-| Website | [ai.pythai.net](https://ai.pythai.net) |
+| Website | [ai.pythai.net](https://gpt.pythai.net) |
 | bankonOS | [bankon.pythai.net](https://bankon.pythai.net) |
 | AgenticPlace | [agenticplace.pythai.net](https://agenticplace.pythai.net) |
 | GPT Agent | [Professor Codephreak](https://chatgpt.com/g/g-gNLDlpcAv-professor-codephreak) |

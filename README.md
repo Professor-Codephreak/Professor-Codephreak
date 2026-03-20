@@ -99,7 +99,7 @@ IAML [Professor Codephreak](https://huggingface.co/codephreakx) has embarked on 
 
 ---
 
-## Organizations (28)
+## Organizations (29)
 
 | Organization | Description | Link |
 |-------------|-------------|------|
@@ -131,6 +131,7 @@ IAML [Professor Codephreak](https://huggingface.co/codephreakx) has embarked on 
 | **bankonmecoin** | CryptoNote technology | [bankonmecoin](https://github.com/bankonmecoin) |
 | **dairef** | A general reference to programmable DAI | [dairef](https://github.com/dairef) |
 | **cryptocurrent** | Cryptocurrency development tools | [cryptocurrent](https://github.com/cryptocurrent) |
+| **mlodular** | Modular machine learning | [mlodular](https://github.com/mlodular) |
 | **Heads** | The libre privacy distro (forked, dormant since 2019) | [headslive](https://github.com/headslive) |
 
 ---
@@ -195,7 +196,7 @@ IAML [Professor Codephreak](https://huggingface.co/codephreakx) has embarked on 
 ---
 
 <p align="center">
-  <em>90+ repositories &middot; 28 organizations &middot; Since 2004</em><br>
+  <em>90+ repositories &middot; 29 organizations &middot; Since 2004</em><br>
   <strong>From MCSAP to bankonOS. From compiling Bitcoin wallets to hosting the agent economy.</strong><br>
   With <a href="https://opensea.io/item/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523057075189186561">Codephreak</a> in your pocket you have a PhD level computer scientist eager to answer any and all of your coding questions day or night 24 hours a day.
 </p>

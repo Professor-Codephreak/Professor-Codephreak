@@ -99,7 +99,7 @@ IAML [Professor Codephreak](https://huggingface.co/codephreakx) has embarked on 
 
 ---
 
-## Organizations (29)
+## Organizations (30)
 
 | Organization | Description | Link |
 |-------------|-------------|------|
@@ -115,6 +115,7 @@ IAML [Professor Codephreak](https://huggingface.co/codephreakx) has embarked on 
 | **Faicey** | UIUX AIML modular response systems | [Faicey](https://github.com/Faicey) |
 | **webmindML** | Client-side local language model dev | [webmindml](https://github.com/webmindml) |
 | **xtends** | Machine learning extensions for local LLMs | [xtends](https://github.com/xtends) |
+| **augml** | Augmentation machine learning | [augml](https://github.com/augml) |
 | **AION** | system.agent | [AION-NET](https://github.com/AION-NET) |
 | **AIMLdr** | Machine learning healthcare consultation | [AIMLdr](https://github.com/AIMLdr) |
 | **openmind** | AGI as recursive prompt | [openmindx](https://github.com/openmindx) |
@@ -196,7 +197,7 @@ IAML [Professor Codephreak](https://huggingface.co/codephreakx) has embarked on 
 ---
 
 <p align="center">
-  <em>90+ repositories &middot; 29 organizations &middot; Since 2004</em><br>
+  <em>90+ repositories &middot; 30 organizations &middot; Since 2004</em><br>
   <strong>From MCSAP to bankonOS. From compiling Bitcoin wallets to hosting the agent economy.</strong><br>
   With <a href="https://opensea.io/item/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523057075189186561">Codephreak</a> in your pocket you have a PhD level computer scientist eager to answer any and all of your coding questions day or night 24 hours a day.
 </p>

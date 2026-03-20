@@ -99,7 +99,7 @@ IAML [Professor Codephreak](https://huggingface.co/codephreakx) has embarked on 
 
 ---
 
-## Organizations (30)
+## Organizations (40)
 
 | Organization | Description | Link |
 |-------------|-------------|------|
@@ -133,6 +133,16 @@ IAML [Professor Codephreak](https://huggingface.co/codephreakx) has embarked on 
 | **dairef** | A general reference to programmable DAI | [dairef](https://github.com/dairef) |
 | **cryptocurrent** | Cryptocurrency development tools | [cryptocurrent](https://github.com/cryptocurrent) |
 | **mlodular** | Modular machine learning | [mlodular](https://github.com/mlodular) |
+| **DAONOW** | Collection of inception contracts for DAO creation (151 repos) | [DAONOW](https://github.com/DAONOW) |
+| **DAOcommunity** | DAO governance tooling and voting | [DAOcommunity](https://github.com/DAOcommunity) |
+| **researchsolution** | DAIO — contract programming | [researchsolution](https://github.com/researchsolution) |
+| **web3buysell** | DAO of buy and sell — OpenBazaar ecosystem | [web3buysell](https://github.com/web3buysell) |
+| **DELTAVERSE** | Decentralised cryptoverse metaDAO | [deltav-deltaverse](https://github.com/deltav-deltaverse) |
+| **DeltaVerseDAO** | deltaverse.dao governance | [DeltaVerseDAO](https://github.com/DeltaVerseDAO) |
+| **deltaloans** | Flash loans and lending research | [deltaloans](https://github.com/deltaloans) |
+| **webthreejs** | Web3 JavaScript frontend infrastructure | [webthreejs](https://github.com/webthreejs) |
+| **tethercoin** | Pegged cryptocurrency asset research | [tethercoin](https://github.com/tethercoin) |
+| **AIONMCP** | AION Model Context Protocol | [AIONMCP](https://github.com/AIONMCP) |
 | **Heads** | The libre privacy distro (forked, dormant since 2019) | [headslive](https://github.com/headslive) |
 
 ---
@@ -197,7 +207,7 @@ IAML [Professor Codephreak](https://huggingface.co/codephreakx) has embarked on 
 ---
 
 <p align="center">
-  <em>90+ repositories &middot; 30 organizations &middot; Since 2004</em><br>
+  <em>90+ repositories &middot; 40 organizations &middot; Since 2004</em><br>
   <strong>From MCSAP to bankonOS. From compiling Bitcoin wallets to hosting the agent economy.</strong><br>
   With <a href="https://opensea.io/item/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523057075189186561">Codephreak</a> in your pocket you have a PhD level computer scientist eager to answer any and all of your coding questions day or night 24 hours a day.
 </p>

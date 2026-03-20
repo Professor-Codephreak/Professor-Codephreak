@@ -99,7 +99,7 @@ IAML [Professor Codephreak](https://huggingface.co/codephreakx) has embarked on 
 
 ---
 
-## Organizations (49)
+## Organizations (106)
 
 | Organization | Description | Link |
 |-------------|-------------|------|
@@ -151,6 +151,63 @@ IAML [Professor Codephreak](https://huggingface.co/codephreakx) has embarked on 
 | **deltabeam** | DEX on Moonbeam GLMR parachain | [deltamoonbeam](https://github.com/deltamoonbeam) |
 | **deltalgorand** | Algorand blockchain integration | [deltalgorand](https://github.com/deltalgorand) |
 | **DeltaVD** | DeltaVerse web3D resource code (82 repos) | [DeltaVD](https://github.com/DeltaVD) |
+| **AILGO** | Algorand AI integration (101 repos) | [ailgo](https://github.com/ailgo) |
+| **aiterm** | Augmented intelligence terminal | [aiterm](https://github.com/aiterm) |
+| **AUTONOMOS** | Automatic operating system | [autonomos-agent](https://github.com/autonomos-agent) |
+| **BANKON PYTHAI** | Qubic quantum price oracle | [BANKONPYTHAI](https://github.com/BANKONPYTHAI) |
+| **bankon.wallet** | Client to data storage facilitation (91 repos) | [bankonvault](https://github.com/bankonvault) |
+| **blocktalk** | Blockchain communication system | [blktalk](https://github.com/blktalk) |
+| **BRAINCHAIN** | Blockchain for exchange of mental activity | [BRAINCHN](https://github.com/BRAINCHN) |
+| **BROBOT BRAI** | Cryptocurrency adoption AI tool | [BROBOTBRAI](https://github.com/BROBOTBRAI) |
+| **BRUHAI** | ML augmented intelligence R&D | [BRUHAI](https://github.com/BRUHAI) |
+| **chattchain** | Blockchain chat infrastructure | [chattchain](https://github.com/chattchain) |
+| **chatter3** | Web3 identity and communication | [chatter3](https://github.com/chatter3) |
+| **cryptoAGI** | Cryptocurrency augmented generative intelligence | [cryptoAGI](https://github.com/cryptoAGI) |
+| **cryptotraderagi** | Trading platforms and ML research | [cryptotraderagi](https://github.com/cryptotraderagi) |
+| **CyberPunk2051** | Ollama + blockchain for abundant future | [cyberpunk2051](https://github.com/cyberpunk2051) |
+| **DAISYCHAIN** | Layer three agentic blockchain | [daisychn](https://github.com/daisychn) |
+| **deltabridge** | Delta algorithm bridge implementation (147 repos) | [deltabridge](https://github.com/deltabridge) |
+| **DeltaL** | Experimental zone (92 repos) | [DeltaLabratory](https://github.com/DeltaLabratory) |
+| **deltastorage** | Zilliqa Scilla language exploration | [deltastorage](https://github.com/deltastorage) |
+| **GNUGUI** | 3D expressive web GUI | [gnugui](https://github.com/gnugui) |
+| **ml4llm** | Intelligent augmentation machine (73 repos) | [gpt4plugins](https://github.com/gpt4plugins) |
+| **GUToE** | Theory of Everything | [GrandUnifiedTheoryOfEverything](https://github.com/GrandUnifiedTheoryOfEverything) |
+| **IDmanagement** | Digital identity infrastructure (214 repos) | [idmanagement](https://github.com/idmanagement) |
+| **IPFSdapps** | Decentralized frontend dApps (127 repos) | [IPFSdapps](https://github.com/IPFSdapps) |
+| **ipNFTfs** | InterPlanetary NFT file system | [ipNFTfs](https://github.com/ipNFTfs) |
+| **limitorder** | Limit order stop loss tooling | [limitorder](https://github.com/limitorder) |
+| **metasnaps** | MetaMask Snap extensions for DeltaVerse | [metasnaps](https://github.com/metasnaps) |
+| **minaiml** | Language models in miniature | [minaiml](https://github.com/minaiml) |
+| **mlDAIO** | Machine learning DAO | [mldaio](https://github.com/mldaio) |
+| **MMRAI MRAI** | MasterMind Retrieval Augmented Intelligence MemoRAI | [MMRAIMRAI](https://github.com/MMRAIMRAI) |
+| **modusAGI** | Modular AGI | [modusAGI](https://github.com/modusAGI) |
+| **PYTHIA MYSTIC** | Predictions algorithm | [MYSTICALPYTHIA](https://github.com/MYSTICALPYTHIA) |
+| **newagi** | Neural enhanced wisdom AGI | [newagi](https://github.com/newagi) |
+| **NFTdr** | NFT data royalties | [NFTdr](https://github.com/NFTdr) |
+| **mrNFT** | NFT marketplace royalties | [NFTmr](https://github.com/NFTmr) |
+| **OPENBDK** | Open Blockchain Development Kit | [openbdk](https://github.com/openbdk) |
+| **pkNFT** | Programmable private key prompt knowledge | [pkNFTapi](https://github.com/pkNFTapi) |
+| **polyglotAGI** | Multi-model multi-modal AGI | [polyglotAGI](https://github.com/polyglotAGI) |
+| **PYETH** | Ethereum Virtual Machine Python tools (83 repos) | [pyeth](https://github.com/pyeth) |
+| **PYTHIA MYSTIC oracle** | Oracle of Delphi | [PYTHIAMYSTIC](https://github.com/PYTHIAMYSTIC) |
+| **ramziosta-code** | Code contributions | [ramziosta-code](https://github.com/ramziosta-code) |
+| **rustchain** | Rust blockchain tooling (Partisia, Solana, CosmWasm) | [rustchain](https://github.com/rustchain) |
+| **satoshigen** | Bitcoin ordinal inscription | [satoshigen](https://github.com/satoshigen) |
+| **Save the Glaciers** | Water is Life | [SaveGlaciers](https://github.com/SaveGlaciers) |
+| **SHAMBA LUV** | Abundance, fun, community vibe | [SHAMBA-LUV](https://github.com/SHAMBA-LUV) |
+| **S.M.A.I.R.T** | Solidity Machine Augmented Intelligence | [S-M-A-I-R-T](https://github.com/S-M-A-I-R-T) |
+| **solidml** | Solidity and machine learning reference (131 repos) | [solidml](https://github.com/solidml) |
+| **STORAGE STAR** | Decentralized storage | [STORAGESTAR](https://github.com/STORAGESTAR) |
+| **THCHAIN** | Blockchain infrastructure | [THCHAIN](https://github.com/THCHAIN) |
+| **THRUST TNT** | THRUST TNT blockchain development | [THRUSTCHAIN](https://github.com/THRUSTCHAIN) |
+| **TNT** | THRUST Network Technology solutions (62 repos) | [thTNT](https://github.com/thTNT) |
+| **hackFS 2024** | ETH Global hackFS research | [thTNT2](https://github.com/thTNT2) |
+| **TNT blockchain** | THRUST TNT testnet deployment | [TNTbkc](https://github.com/TNTbkc) |
+| **trainAIr** | The model trainer | [trainair](https://github.com/trainair) |
+| **UIUXt** | UIUX extensions collection | [UIUXt](https://github.com/UIUXt) |
+| **DAIO** | Decentralized Autonomous Intelligent Organization | [w3DAIO](https://github.com/w3DAIO) |
+| **web3T** | Token Talk Transaction communication | [web3comm](https://github.com/web3comm) |
+| **web3Dai** | Web3 DAI integration | [web3Dai](https://github.com/web3Dai) |
 | **Heads** | The libre privacy distro (forked, dormant since 2019) | [headslive](https://github.com/headslive) |
 
 ---
@@ -215,7 +272,7 @@ IAML [Professor Codephreak](https://huggingface.co/codephreakx) has embarked on 
 ---
 
 <p align="center">
-  <em>90+ repositories &middot; 49 organizations &middot; Since 2004</em><br>
+  <em>90+ repositories &middot; 106 organizations &middot; Since 2004</em><br>
   <strong>From MCSAP to bankonOS. From compiling Bitcoin wallets to hosting the agent economy.</strong><br>
   With <a href="https://opensea.io/item/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523057075189186561">Codephreak</a> in your pocket you have a PhD level computer scientist eager to answer any and all of your coding questions day or night 24 hours a day.
 </p>

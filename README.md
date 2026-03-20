@@ -99,7 +99,7 @@ IAML [Professor Codephreak](https://huggingface.co/codephreakx) has embarked on 
 
 ---
 
-## Organizations (40)
+## Organizations (42)
 
 | Organization | Description | Link |
 |-------------|-------------|------|
@@ -143,6 +143,8 @@ IAML [Professor Codephreak](https://huggingface.co/codephreakx) has embarked on 
 | **webthreejs** | Web3 JavaScript frontend infrastructure | [webthreejs](https://github.com/webthreejs) |
 | **tethercoin** | Pegged cryptocurrency asset research | [tethercoin](https://github.com/tethercoin) |
 | **AIONMCP** | AION Model Context Protocol | [AIONMCP](https://github.com/AIONMCP) |
+| **deltavthrust-nft** | NFT source code — immutable tooling (170 repos) | [DeltaVThrust-NFT](https://github.com/DeltaVThrust-NFT) |
+| **DeltaVML** | DeltaV Machine Learning (271 repos) | [DeltaVML](https://github.com/DeltaVML) |
 | **Heads** | The libre privacy distro (forked, dormant since 2019) | [headslive](https://github.com/headslive) |
 
 ---
@@ -207,7 +209,7 @@ IAML [Professor Codephreak](https://huggingface.co/codephreakx) has embarked on 
 ---
 
 <p align="center">
-  <em>90+ repositories &middot; 40 organizations &middot; Since 2004</em><br>
+  <em>90+ repositories &middot; 42 organizations &middot; Since 2004</em><br>
   <strong>From MCSAP to bankonOS. From compiling Bitcoin wallets to hosting the agent economy.</strong><br>
   With <a href="https://opensea.io/item/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523057075189186561">Codephreak</a> in your pocket you have a PhD level computer scientist eager to answer any and all of your coding questions day or night 24 hours a day.
 </p>

@@ -45,7 +45,7 @@ hiding itself in an NFT and discovered as a sprite in the deltaverse
 - **[BDK6](https://github.com/lair3/BDK5)** — L3 blockchain deployment kit v6.6.6 (Kurtosis + Podman)
 - **[MASTERMIND](https://github.com/mastermindml)** — control framework and creator of agency
 - **[AGLM](https://github.com/kkondo1981/aglm)** — Autonomous General Learning Model ([NFT collection](https://opensea.io/collection/aglm))
-- **[GUToE](https://github.com/Professor-Codephreak/theoryofeverything)** — [Grand Unified Theory of Everything](https://share.streamlit.io/user/professor-codephreak-7336)
+- **[GUToE](https://github.com/grandunifiedtheoryofeverything)** — [Grand Unified Theory of Everything](https://share.streamlit.io/user/professor-codephreak-7336)
 
 ---
 

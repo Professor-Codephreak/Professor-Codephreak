@@ -95,7 +95,7 @@ IAML [Professor Codephreak](https://huggingface.co/codephreakx) has embarked on 
 | [**DAIO**](https://github.com/Professor-Codephreak/DAIO) | Decentralized Autonomous Intelligent Organization |
 | [**Tomb**](https://github.com/Professor-Codephreak/Tomb) | Encrypted file container (forked from dyne) |
 | [**bankonHEADs**](https://github.com/Professor-Codephreak/bankonOS) | RAM-based live OS — Heads fork, Tor, amnesic |
-| [**GUToE**](https://github.com/Professor-Codephreak/theoryofeverything) | Grand Unified Theory of Everything |
+| [**GUToE**](https://github.com/grandunifiedtheoryofeverything) | Grand Unified Theory of Everything |
 
 ---
 

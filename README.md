@@ -4,11 +4,12 @@
   <a href="https://opensea.io/item/ethereum/0x52525cf31cc267d9635c38ec9ec99596f4664dc8/1">Platform Architect</a> / Software Engineer<br>
   <a href="https://chatgpt.com/g/g-gNLDlpcAv-professor-codephreak">Professor Codephreak GPT agent</a><br>
   <a href="https://gpt.pythai.net">gpt.pythai.net</a> &middot; <a href="mailto:codephreak@pythai.net">codephreak@pythai.net</a> &middot; <a href="https://twitter.com/AIOSML">@AIOSML</a>
+  <a href="https://soundcloud.com/mag-magnus/sets/music-for-robots-to-dance-2">Music for Robots 2dance2</a>
 </p>
 
 <br />
 <br />
-<a href="https://soundcloud.com/mag-magnus/sets/music-for-robots-to-dance-2">Music for Robots 2dance2</a>
+
 ---
 
 ```txt

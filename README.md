@@ -8,7 +8,7 @@
 
 <br />
 <br />
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-Mag_Magnus-ff5500?logo=soundcloud&logoColor=white)](https://soundcloud.com/mag-magnus/sets/music-for-robots-to-dance-2)
+<a href="https://soundcloud.com/mag-magnus/sets/music-for-robots-to-dance-2">Music for Robots 2dance2</a>
 ---
 
 ```txt

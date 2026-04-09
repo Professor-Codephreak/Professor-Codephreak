@@ -6,6 +6,10 @@
   <a href="https://gpt.pythai.net">gpt.pythai.net</a> &middot; <a href="mailto:codephreak@pythai.net">codephreak@pythai.net</a> &middot; <a href="https://twitter.com/AIOSML">@AIOSML</a>
 </p>
 
+<br />
+<br />
+[![Music for Robots to Dance 2](./assets/robots-dance-cover.png)](https://soundcloud.com/mag-magnus/sets/music-for-robots-to-dance-2)
+
 ---
 
 ```txt

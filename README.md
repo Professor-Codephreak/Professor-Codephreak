@@ -8,8 +8,7 @@
 
 <br />
 <br />
-[![Music for Robots to Dance 2](./assets/robots-dance-cover.png)](https://soundcloud.com/mag-magnus/sets/music-for-robots-to-dance-2)
-
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-Mag_Magnus-ff5500?logo=soundcloud&logoColor=white)](https://soundcloud.com/mag-magnus/sets/music-for-robots-to-dance-2)
 ---
 
 ```txt

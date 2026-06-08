@@ -257,6 +257,21 @@ IAML [Professor Codephreak](https://huggingface.co/codephreakx) has embarked on 
 
 ---
 
+---
+
+## 🎧 take it, own it — the soundtrack
+
+The repo has a soundtrack. **"takeitownit"** — _Take it, Own it._ — distills the
+[gnugui](https://github.com/gnugui) philosophy of **take · own · use · share**.
+All songs authored by Magnusson (recording as [Mag Magnus](https://soundcloud.com/mag-magnus)),
+owned by Professor Codephreak under the gnugui *take·own·use·share* promotional
+licence (derived from GPLv3): take it, own it, use it, share it.
+
+[![takIT — takeitownit](https://img.shields.io/badge/SoundCloud-Listen-ff5500?logo=soundcloud&logoColor=white&style=for-the-badge)](https://soundcloud.com/mag-magnus/sets/takit-1) &nbsp; [![Music 4 Robots 2 Dance 2](https://img.shields.io/badge/SoundCloud-Listen-ff5500?logo=soundcloud&logoColor=white&style=for-the-badge)](https://soundcloud.com/mag-magnus/sets/music-for-robots-to-dance-2)
+
+> 📖 Read the story — **[Take It, Own It — the songs that sing the repo](https://rage.pythai.net/take-it-own-it-codephreak/)**
+> _GitHub strips `<iframe>`, so these are links; the live SoundCloud players are embedded on rage.pythai.net via the `wordpress.agent` **soundcloud.tool** and the **music4robots2dance2** WordPress plugin._
+
 ## Links
 
 | | |

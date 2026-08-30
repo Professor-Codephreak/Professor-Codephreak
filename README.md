@@ -51,6 +51,10 @@ hiding itself in an NFT and discovered as a sprite in the deltaverse
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![TEAL](https://img.shields.io/badge/TEAL%20%2F%20AVM-000000?style=flat-square&logo=algorand&logoColor=white)
+![Clarity](https://img.shields.io/badge/Clarity-5546FF?style=flat-square&logoColor=white)
+![Clarinet](https://img.shields.io/badge/Clarinet-5546FF?style=flat-square&logoColor=white)
+![Erlang](https://img.shields.io/badge/Erlang-A90533?style=flat-square&logo=erlang&logoColor=white)
+![Binary](https://img.shields.io/badge/Binary-2B2B2B?style=flat-square&logoColor=white)
 
 **Machine learning**
 
@@ -64,7 +68,12 @@ hiding itself in an NFT and discovered as a sprite in the deltaverse
 
 **Chain**
 
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
+![Bitcoin Core](https://img.shields.io/badge/Bitcoin%20Core-4D4D4D?style=flat-square&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Stacks](https://img.shields.io/badge/Stacks-5546FF?style=flat-square&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
+![0G](https://img.shields.io/badge/0G-1A1A1A?style=flat-square&logoColor=white)
 ![Algorand](https://img.shields.io/badge/Algorand-000000?style=flat-square&logo=algorand&logoColor=white)
 ![Polygon](https://img.shields.io/badge/Polygon-7B3FE4?style=flat-square&logo=polygon&logoColor=white)
 ![Uniswap fork](https://img.shields.io/badge/Uniswap%20fork-FF007A?style=flat-square&logoColor=white)
@@ -86,9 +95,10 @@ hiding itself in an NFT and discovered as a sprite in the deltaverse
 ## Skills
 
 - 🧠 **Autonomous ML** — aGLM (Autonomous General Learning Model), agent memory (`memory.py` + `automind.py` + `aglm.py`), BDI reasoning and agency control (MASTERMIND), self-improving loops, multi-agent orchestration (mindX)
+- 🧩 **Agent skills** — the mindX `SKILL.md` subsystem: content-addressable manifest, screen-before-persist scanner, hybrid 70/30 BM25 + vector retrieval index, distillation of successful BDI intentions into draft skills, curator archival and structured learning logs (`LEARNINGS.md` / `ERRORS.md` / `FEATURE_REQUESTS.md`). Frontmatter is import-compatible with Hermes, Claude Code, Cursor and Codex, extended with BDI `preconditions` / `postconditions` verified by the MASTERMIND hallucination gate
 - 🔍 **RAG & retrieval** — RAGE (Retrieval Augmented Generative Engine), pgvector stores, embedding cascades (bge-m3, mxbai), local-first inference via Ollama and vLLM, deep retrieval search (deeprage)
 - 🔌 **Backend** — Python, TypeScript/Hono, REST API design, MCP servers, x402 HTTP-402 paygating with on-chain settlement, oracle and keeper services
-- ⛓️ **Blockchain** — Solidity contracts, ERC-8004 identity + reputation registries, deterministic CREATE2/CREATE3 deployment across EVM chains, Algorand ASA/AVM and TEAL, Uniswap-fork DEX and bridge-aware routing, L3 rollups (Polygon CDK)
+- ⛓️ **Blockchain** — Solidity contracts, ERC-8004 identity + reputation registries, deterministic CREATE2/CREATE3 deployment across EVM chains, Algorand ASA/AVM and TEAL, Clarity contracts on Stacks (Clarinet + vitest harness, sBTC), Solana programs, 0G, Bitcoin Core compiled from source, Uniswap-fork DEX and bridge-aware routing, L3 rollups (Polygon CDK)
 - 🛡️ **Sovereign systems** — bootable USB operating systems (bankonOS), Tomb encrypted file containers, amnesic RAM-only live OS with Tor (bankonHEADs), multi-stage bootable image builds, wallet key management (PARSEC, bankonVAULT)
 - 🌐 **UIUX** — gradio for rapid ML interfaces, gnuGUI extending nicegui for web3D, three.js and WebGPU surfaces, Streamlit, tkinter standalone (modusAGI)
 - 🔧 **DevOps** — Kurtosis and Podman orchestration, Docker, PM2 process management, Caddy reverse proxy, systemd, GitHub Actions CI, VPS deployment across pythai.net subdomains

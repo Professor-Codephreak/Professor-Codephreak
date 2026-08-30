@@ -40,6 +40,62 @@ hiding itself in an NFT and discovered as a sprite in the deltaverse
 
 ---
 
+## Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![TEAL](https://img.shields.io/badge/TEAL%20%2F%20AVM-000000?style=flat-square&logo=algorand&logoColor=white)
+
+**Machine learning**
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=flat-square&logo=vllm&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Chain**
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Algorand](https://img.shields.io/badge/Algorand-000000?style=flat-square&logo=algorand&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-7B3FE4?style=flat-square&logo=polygon&logoColor=white)
+![Uniswap fork](https://img.shields.io/badge/Uniswap%20fork-FF007A?style=flat-square&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=black)
+
+**Infrastructure**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## Skills
+
+- 🧠 **Autonomous ML** — aGLM (Autonomous General Learning Model), agent memory (`memory.py` + `automind.py` + `aglm.py`), BDI reasoning and agency control (MASTERMIND), self-improving loops, multi-agent orchestration (mindX)
+- 🔍 **RAG & retrieval** — RAGE (Retrieval Augmented Generative Engine), pgvector stores, embedding cascades (bge-m3, mxbai), local-first inference via Ollama and vLLM, deep retrieval search (deeprage)
+- 🔌 **Backend** — Python, TypeScript/Hono, REST API design, MCP servers, x402 HTTP-402 paygating with on-chain settlement, oracle and keeper services
+- ⛓️ **Blockchain** — Solidity contracts, ERC-8004 identity + reputation registries, deterministic CREATE2/CREATE3 deployment across EVM chains, Algorand ASA/AVM and TEAL, Uniswap-fork DEX and bridge-aware routing, L3 rollups (Polygon CDK)
+- 🛡️ **Sovereign systems** — bootable USB operating systems (bankonOS), Tomb encrypted file containers, amnesic RAM-only live OS with Tor (bankonHEADs), multi-stage bootable image builds, wallet key management (PARSEC, bankonVAULT)
+- 🌐 **UIUX** — gradio for rapid ML interfaces, gnuGUI extending nicegui for web3D, three.js and WebGPU surfaces, Streamlit, tkinter standalone (modusAGI)
+- 🔧 **DevOps** — Kurtosis and Podman orchestration, Docker, PM2 process management, Caddy reverse proxy, systemd, GitHub Actions CI, VPS deployment across pythai.net subdomains
+- 🏛️ **Governance & economics** — DAO and DAIO contract design, tokenomics and airdrop mechanics, fee wrappers, price oracles (Qubic quantum oracle, chronos-stamped price history), NFT royalty systems
+
+---
+
 ## Current Focus
 
 - **[bankonOS](https://github.com/Professor-Codephreak/bankonOS)** — self-sovereign cryptocurrency banking OS on bootable USB (15 scripts, 14,559 lines)

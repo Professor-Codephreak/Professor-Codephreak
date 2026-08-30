@@ -130,6 +130,9 @@ hiding itself in an NFT and discovered as a sprite in the deltaverse
 ![Stacks](https://img.shields.io/badge/Stacks-5546FF?style=flat-square&logoColor=white)
 ![0G](https://img.shields.io/badge/0G-1A1A1A?style=flat-square&logoColor=white)
 ![Uniswap fork](https://img.shields.io/badge/Uniswap%20fork-FF007A?style=flat-square&logoColor=white)
+![ERC-8004](https://img.shields.io/badge/ERC--8004-627EEA?style=flat-square&logo=ethereum&logoColor=white)
+![EIP](https://img.shields.io/badge/EIP-454A75?style=flat-square&logo=ethereum&logoColor=white)
+![x402](https://img.shields.io/badge/x402-00A67E?style=flat-square&logoColor=white)
 
 **Privacy & wallets**
 
@@ -143,6 +146,7 @@ hiding itself in an NFT and discovered as a sprite in the deltaverse
 ![Trezor](https://img.shields.io/badge/Trezor-141609?style=flat-square&logo=trezor&logoColor=white)
 ![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?style=flat-square&logo=walletconnect&logoColor=white)
 ![Tomb](https://img.shields.io/badge/Tomb-2E2E2E?style=flat-square&logoColor=white)
+![cypherpunk4096](https://img.shields.io/badge/cypherpunk4096-00FF41?style=flat-square&logoColor=black)
 
 **Backend & data**
 

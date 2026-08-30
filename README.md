@@ -100,6 +100,7 @@ hiding itself in an NFT and discovered as a sprite in the deltaverse
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![pgvectorscale](https://img.shields.io/badge/pgvectorscale-FDB515?style=flat-square&logo=timescale&logoColor=black)
 
 **[Blockchains](https://deltaverse.pythai.net/chainmarketcap.html)**
 
@@ -138,6 +139,7 @@ hiding itself in an NFT and discovered as a sprite in the deltaverse
 ![Matrix](https://img.shields.io/badge/Matrix-000000?style=flat-square&logo=matrix&logoColor=white)
 ![Trezor](https://img.shields.io/badge/Trezor-1A1A1A?style=flat-square&logo=trezor&logoColor=white)
 ![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?style=flat-square&logo=walletconnect&logoColor=white)
+![Tomb](https://img.shields.io/badge/Tomb-2E2E2E?style=flat-square&logoColor=white)
 
 **Backend & data**
 
@@ -168,6 +170,7 @@ hiding itself in an NFT and discovered as a sprite in the deltaverse
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=black)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![GTK](https://img.shields.io/badge/GTK-7FE719?style=flat-square&logo=gtk&logoColor=black)
+![gnuGUI](https://img.shields.io/badge/gnuGUI-009485?style=flat-square&logoColor=white)
 
 **Infrastructure**
 
@@ -214,7 +217,7 @@ hiding itself in an NFT and discovered as a sprite in the deltaverse
 
 - 🧠 **Autonomous ML** — aGLM (Autonomous General Learning Model), agent memory (`memory.py` + `automind.py` + `aglm.py`), BDI reasoning and agency control (MASTERMIND), self-improving loops, multi-agent orchestration (mindX)
 - 🧩 **Agent skills** — the mindX `SKILL.md` subsystem: content-addressable manifest, screen-before-persist scanner, hybrid 70/30 BM25 + vector retrieval index, distillation of successful BDI intentions into draft skills, curator archival and structured learning logs (`LEARNINGS.md` / `ERRORS.md` / `FEATURE_REQUESTS.md`). Frontmatter is import-compatible with Hermes, Claude Code, Cursor and Codex, extended with BDI `preconditions` / `postconditions` verified by the MASTERMIND hallucination gate
-- 🔍 **RAG & retrieval** — RAGE (Retrieval Augmented Generative Engine), pgvector stores, embedding cascades (bge-m3, mxbai), local-first inference via Ollama and vLLM, deep retrieval search (deeprage)
+- 🔍 **RAG & retrieval** — RAGE (Retrieval Augmented Generative Engine), pgvector / pgvectorscale stores, embedding cascades (bge-m3, mxbai), local-first inference via Ollama and vLLM, deep retrieval search (deeprage)
 - 🔌 **Backend** — Python, TypeScript/Hono, REST API design, MCP servers, x402 HTTP-402 paygating with on-chain settlement, oracle and keeper services
 - ⛓️ **Blockchain** — Solidity contracts, ERC-8004 identity + reputation registries, deterministic CREATE2/CREATE3 deployment across EVM chains, Algorand ASA/AVM and TEAL, Clarity contracts on Stacks (Clarinet + vitest harness, sBTC), Solana programs, 0G, Bitcoin Core compiled from source, Uniswap-fork DEX and bridge-aware routing, L3 rollups (Polygon CDK)
 - 🛡️ **Sovereign systems** — bootable USB operating systems (bankonOS), Tomb encrypted file containers, amnesic RAM-only live OS with Tor (bankonHEADs), multi-stage bootable image builds, wallet key management (PARSEC, bankonVAULT)

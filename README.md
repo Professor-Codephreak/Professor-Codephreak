@@ -146,6 +146,7 @@ hiding itself in an NFT and discovered as a sprite in the deltaverse
 ![Trezor](https://img.shields.io/badge/Trezor-141609?style=flat-square&logo=trezor&logoColor=white)
 ![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?style=flat-square&logo=walletconnect&logoColor=white)
 ![Tomb](https://img.shields.io/badge/Tomb-2E2E2E?style=flat-square&logoColor=white)
+![cypherpunk2048](https://img.shields.io/badge/cypherpunk2048-008F11?style=flat-square&logoColor=white)
 ![cypherpunk4096](https://img.shields.io/badge/cypherpunk4096-00FF41?style=flat-square&logoColor=black)
 
 **Backend & data**
@@ -172,12 +173,14 @@ hiding itself in an NFT and discovered as a sprite in the deltaverse
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
 ![WebGPU](https://img.shields.io/badge/WebGPU-005A9C?style=flat-square&logo=webgpu&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=black)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![GTK](https://img.shields.io/badge/GTK-7FE719?style=flat-square&logo=gtk&logoColor=black)
+![webCPU](https://img.shields.io/badge/webCPU-4B5563?style=flat-square&logoColor=white)
 ![gnuGUI](https://img.shields.io/badge/gnuGUI-009485?style=flat-square&logoColor=white)
 
 **Infrastructure**

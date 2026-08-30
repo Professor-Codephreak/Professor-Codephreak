@@ -487,6 +487,7 @@ licence (derived from GPLv3): take it, own it, use it, share it.
 | bankonOS | [bankon.pythai.net](https://bankon.pythai.net) |
 | AgenticPlace | [agenticplace.pythai.net](https://agenticplace.pythai.net) |
 | AUTOMINDx | [mindx.pythai.net/automindx](https://mindx.pythai.net/automindx) — the origin of mindX, live |
+| RAGE | [rage.pythai.net](https://rage.pythai.net) — Retrieval Augmented Generative Engine, live |
 | GPT Agent | [Professor Codephreak](https://chatgpt.com/g/g-gNLDlpcAv-professor-codephreak) |
 | MASTERMIND GPT | [MASTERMIND](https://chatgpt.com/g/g-NO8ax8aMU-mastermind) |
 | GUToE | [Theory of Everything](https://share.streamlit.io/user/professor-codephreak-7336) |

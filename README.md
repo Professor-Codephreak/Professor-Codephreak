@@ -133,6 +133,7 @@ hiding itself in an NFT and discovered as a sprite in the deltaverse
 ![ERC-8004](https://img.shields.io/badge/ERC--8004-627EEA?style=flat-square&logo=ethereum&logoColor=white)
 ![EIP](https://img.shields.io/badge/EIP-454A75?style=flat-square&logo=ethereum&logoColor=white)
 ![x402](https://img.shields.io/badge/x402-00A67E?style=flat-square&logoColor=white)
+[![BANKON](https://img.shields.io/badge/BANKON-D9A23A?style=flat-square&logoColor=black)](https://bankon.pythai.net)
 
 **Privacy & wallets**
 
@@ -146,6 +147,7 @@ hiding itself in an NFT and discovered as a sprite in the deltaverse
 ![Trezor](https://img.shields.io/badge/Trezor-141609?style=flat-square&logo=trezor&logoColor=white)
 ![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?style=flat-square&logo=walletconnect&logoColor=white)
 ![Tomb](https://img.shields.io/badge/Tomb-2E2E2E?style=flat-square&logoColor=white)
+[![PARSEC](https://img.shields.io/badge/PARSEC-0A0E14?style=flat-square&logoColor=white)](https://github.com/parsec-wallet)
 ![cypherpunk2048](https://img.shields.io/badge/cypherpunk2048-008F11?style=flat-square&logoColor=white)
 ![cypherpunk4096](https://img.shields.io/badge/cypherpunk4096-00FF41?style=flat-square&logoColor=black)
 
@@ -181,6 +183,7 @@ hiding itself in an NFT and discovered as a sprite in the deltaverse
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![GTK](https://img.shields.io/badge/GTK-7FE719?style=flat-square&logo=gtk&logoColor=black)
 ![webCPU](https://img.shields.io/badge/webCPU-4B5563?style=flat-square&logoColor=white)
+[![DeltaVerse](https://img.shields.io/badge/DeltaVerse-5AD1FF?style=flat-square&logoColor=black)](https://deltaverse.pythai.net)
 ![gnuGUI](https://img.shields.io/badge/gnuGUI-009485?style=flat-square&logoColor=white)
 
 **Infrastructure**

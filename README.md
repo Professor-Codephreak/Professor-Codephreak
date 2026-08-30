@@ -107,6 +107,9 @@ hiding itself in an NFT and discovered as a sprite in the deltaverse
 [![mindX](https://img.shields.io/badge/mindX-56D364?style=flat-square&logoColor=black)](https://mindx.pythai.net)
 [![RAGE](https://img.shields.io/badge/RAGE-D7263D?style=flat-square&logoColor=white)](https://rage.pythai.net)
 [![MASTERMIND](https://img.shields.io/badge/MASTERMIND-6D28D9?style=flat-square&logoColor=white)](https://github.com/mastermindml)
+[![automind](https://img.shields.io/badge/automind-2563EB?style=flat-square&logoColor=white)](https://github.com/Professor-Codephreak/automind)
+[![AGLM](https://img.shields.io/badge/AGLM-39D3C7?style=flat-square&logoColor=black)](https://huggingface.co/aGLM)
+[![funAGI](https://img.shields.io/badge/funAGI-F59E0B?style=flat-square&logoColor=black)](https://github.com/pythaiml/funAGI)
 
 **[Blockchains](https://deltaverse.pythai.net/chainmarketcap.html)**
 

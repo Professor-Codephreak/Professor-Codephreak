@@ -104,6 +104,9 @@ hiding itself in an NFT and discovered as a sprite in the deltaverse
 ![MCP](https://img.shields.io/badge/MCP-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![pgvectorscale](https://img.shields.io/badge/pgvectorscale-FDB515?style=flat-square&logo=timescale&logoColor=black)
+[![mindX](https://img.shields.io/badge/mindX-56D364?style=flat-square&logoColor=black)](https://mindx.pythai.net)
+[![RAGE](https://img.shields.io/badge/RAGE-D7263D?style=flat-square&logoColor=white)](https://rage.pythai.net)
+[![MASTERMIND](https://img.shields.io/badge/MASTERMIND-6D28D9?style=flat-square&logoColor=white)](https://github.com/mastermindml)
 
 **[Blockchains](https://deltaverse.pythai.net/chainmarketcap.html)**
 

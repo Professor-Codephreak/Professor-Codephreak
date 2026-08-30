@@ -266,7 +266,7 @@ hiding itself in an NFT and discovered as a sprite in the deltaverse
 
 | Project | Description |
 |---------|------------|
-| [**AGLM**](https://github.com/autoGLM) | Accurate autonomous general learning model |
+| [**AGLM**](https://github.com/autoGLM) | Autonomous General Learning Model — autonomous ML, our work since 2021 |
 | [**MASTERMIND**](https://github.com/mastermindml) | Control framework and creator of agency — [GPT](https://chatgpt.com/g/g-NO8ax8aMU-mastermind) |
 | [**RAGE**](https://github.com/gaterage) | Retrieval Augmented Generative Engine for Business Intelligence |
 | [**automind**](https://github.com/Professor-Codephreak/automind) | Local executable coding environment — memory + context + AGLM |

@@ -280,6 +280,8 @@ hiding itself in an NFT and discovered as a sprite in the deltaverse
 | [**prompt.prompt**](https://github.com/Professor-Codephreak/prompt.prompt) | Encapsulation language for agents and agency |
 | [**doubletap**](https://github.com/AIMLdr/doubletap/blob/main/EXAMPLE.md) | Find and kill llama with sane ufw rules |
 
+**Lineage & credit** — AGLM stands on the pioneering [Accurate Generalized Linear Model](https://github.com/kkondo1981/aglm) of [kkondo1981](https://github.com/kkondo1981) — Hachemeister Prize-winning work from the Casualty Actuarial Society on GLM accuracy and accountability. The **Autonomous** General Learning Model carries that lineage forward, from accuracy in actuarial modeling into autonomous machine learning.
+
 [Professor Codephreak](https://opensea.io/item/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523055975677558785) is currently working with [AIGENCY team](https://gpt.pythai.net) since creating the original [AUTOMINDx](https://github.com/AUTOMINDx) expression. Professor Codephreak as local language model version 2 is [automindx](https://github.com/pythaiml/automindx) and the alpha evolution model stored for posterity @ [aGLM](https://github.com/autoGLM/README-md).
 
 Empowered by machine learning, Professor Codephreak is diligently working on 90+ projects simultaneously maximizing the 24x365 cycle of the modern development era.

@@ -108,7 +108,7 @@ hiding itself in an NFT and discovered as a sprite in the deltaverse
 [![RAGE](https://img.shields.io/badge/RAGE-D7263D?style=flat-square&logoColor=white)](https://rage.pythai.net)
 [![MASTERMIND](https://img.shields.io/badge/MASTERMIND-6D28D9?style=flat-square&logoColor=white)](https://github.com/mastermindml)
 [![automind](https://img.shields.io/badge/automind-2563EB?style=flat-square&logoColor=white)](https://github.com/Professor-Codephreak/automind)
-[![AGLM](https://img.shields.io/badge/AGLM-39D3C7?style=flat-square&logoColor=black)](https://huggingface.co/aGLM)
+[![AGLM](https://img.shields.io/badge/AGLM-39D3C7?style=flat-square&logoColor=black)](https://github.com/autoGLM)
 [![funAGI](https://img.shields.io/badge/funAGI-F59E0B?style=flat-square&logoColor=black)](https://github.com/pythaiml/funAGI)
 
 **[Blockchains](https://deltaverse.pythai.net/chainmarketcap.html)**
@@ -255,7 +255,7 @@ hiding itself in an NFT and discovered as a sprite in the deltaverse
 - **[SPINTRADE](https://github.com/spintrade)** — Uniswap-fork DEX with bridge-aware routers
 - **[BDK6](https://github.com/lair3/BDK5)** — L3 blockchain deployment kit v6.6.6 (Kurtosis + Podman)
 - **[MASTERMIND](https://github.com/mastermindml)** — control framework and creator of agency
-- **[AGLM](https://github.com/kkondo1981/aglm)** — Autonomous General Learning Model ([NFT collection](https://opensea.io/collection/aglm))
+- **[AGLM](https://github.com/autoGLM)** — Autonomous General Learning Model ([NFT collection](https://opensea.io/collection/aglm))
 - **[GUToE](https://github.com/grandunifiedtheoryofeverything)** — [Grand Unified Theory of Everything](https://share.streamlit.io/user/professor-codephreak-7336)
 
 ---
@@ -266,7 +266,7 @@ hiding itself in an NFT and discovered as a sprite in the deltaverse
 
 | Project | Description |
 |---------|------------|
-| [**AGLM**](https://github.com/kkondo1981/aglm) | Accurate autonomous general learning model |
+| [**AGLM**](https://github.com/autoGLM) | Accurate autonomous general learning model |
 | [**MASTERMIND**](https://github.com/mastermindml) | Control framework and creator of agency — [GPT](https://chatgpt.com/g/g-NO8ax8aMU-mastermind) |
 | [**RAGE**](https://github.com/gaterage) | Retrieval Augmented Generative Engine for Business Intelligence |
 | [**automind**](https://github.com/Professor-Codephreak/automind) | Local executable coding environment — memory + context + AGLM |

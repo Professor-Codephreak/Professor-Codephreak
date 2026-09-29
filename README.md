@@ -314,7 +314,7 @@ IAML [Professor Codephreak](https://huggingface.co/codephreakx) has embarked on 
 
 ---
 
-## Organizations (106)
+## Organizations (110)
 
 > **The full map: [orgmap](https://github.com/Professor-Codephreak/orgmap)**, the master archivist's file mapping. Every organization and repository, filed in [12 concept domains](https://github.com/Professor-Codephreak/orgmap/blob/main/ARCHIVE.md), with each original work described and each research fork beside the upstream it studies.
 
@@ -507,7 +507,7 @@ licence (derived from GPLv3): take it, own it, use it, share it.
 ---
 
 <p align="center">
-  <em>90+ repositories &middot; 106 organizations &middot; Since 2004</em><br>
+  <em>90+ repositories &middot; 110 organizations &middot; Since 2004</em><br>
   <strong>From MCSAP to bankonOS. From compiling Bitcoin wallets to hosting the agent economy.</strong><br>
   With <a href="https://opensea.io/item/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/7675060345879017836756807061815685501584179421371855056758523057075189186561">Codephreak</a> in your pocket you have a PhD level computer scientist eager to answer any and all of your coding questions day or night 24 hours a day.
 </p>

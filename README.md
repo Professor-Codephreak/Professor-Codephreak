@@ -316,6 +316,8 @@ IAML [Professor Codephreak](https://huggingface.co/codephreakx) has embarked on 
 
 ## Organizations (106)
 
+> **The full map: [orgmap](https://github.com/Professor-Codephreak/orgmap)**, the master archivist's file mapping. Every organization and repository, filed in [12 concept domains](https://github.com/Professor-Codephreak/orgmap/blob/main/ARCHIVE.md), with each original work described and each research fork beside the upstream it studies.
+
 | Organization | Description | Link |
 |-------------|-------------|------|
 | **PYTHAI** | AI for the knowledge economy | [pythaiml](https://github.com/pythaiml) |
@@ -492,6 +494,7 @@ licence (derived from GPLv3): take it, own it, use it, share it.
 | AgenticPlace | [agenticplace.pythai.net](https://agenticplace.pythai.net) |
 | AUTOMINDx | [mindx.pythai.net/automindx](https://mindx.pythai.net/automindx) — the origin of mindX, live |
 | RAGE | [rage.pythai.net](https://rage.pythai.net) — Retrieval Augmented Generative Engine, live |
+| orgmap | [Professor-Codephreak/orgmap](https://github.com/Professor-Codephreak/orgmap) — the master archivist's file mapping of every organization and repository |
 | GPT Agent | [Professor Codephreak](https://chatgpt.com/g/g-gNLDlpcAv-professor-codephreak) |
 | MASTERMIND GPT | [MASTERMIND](https://chatgpt.com/g/g-NO8ax8aMU-mastermind) |
 | GUToE | [Theory of Everything](https://share.streamlit.io/user/professor-codephreak-7336) |

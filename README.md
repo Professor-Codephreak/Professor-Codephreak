@@ -250,7 +250,7 @@ hiding itself in an NFT and discovered as a sprite in the deltaverse
 
 ## Current Focus
 
-- **[bankonOS](https://github.com/Professor-Codephreak/bankonOS)** — self-sovereign cryptocurrency banking OS on bootable USB (15 scripts, 14,559 lines)
+- **[bankonOS](https://github.com/cryptoAGI/bankonOS/tree/v1.0.0-rc1)** — self-sovereign cryptocurrency banking OS on bootable USB; release candidate v1.0.0-rc1 (Build M: Mill)
 - **[x402](https://github.com/cypherpunk2048/x402)** — HTTP-native micropayment protocol (Algorand settlement)
 - **[PARSEC](https://github.com/parsec-wallet)** — sovereign universal wallet (Tauri + Rust, private — inspired by bankonVAULT + smartmetamask)
 - **[SPINTRADE](https://github.com/spintrade)** — Uniswap-fork DEX with bridge-aware routers
@@ -302,14 +302,14 @@ IAML [Professor Codephreak](https://huggingface.co/codephreakx) has embarked on 
 
 | Project | Description |
 |---------|------------|
-| [**bankonOS**](https://github.com/Professor-Codephreak/bankonOS) | Bootable USB banking OS — 15 scripts, 14,559 lines, builds A–L |
+| [**bankonOS**](https://github.com/cryptoAGI/bankonOS/tree/v1.0.0-rc1) | Bootable USB banking OS — builds A–M, v1.0.0-rc1 (Mill) |
 | [**x402**](https://github.com/cypherpunk2048/x402) | HTTP 402 micropayment protocol — 6 Algorand-settled services |
 | [**PARSEC**](https://github.com/parsec-wallet) | Sovereign multi-chain wallet (Tauri + Rust, private) |
 | [**SPINTRADE**](https://github.com/spintrade) | Uniswap-fork DEX — bridge routers, Agglayer, Vault Bridge |
 | [**BDK6**](https://github.com/lair3/BDK5) | Blockchain Deployment Kit v6.6.6 — Polygon CDK, Kurtosis, Podman |
 | [**DAIO**](https://github.com/Professor-Codephreak/DAIO) | Decentralized Autonomous Intelligent Organization |
 | [**Tomb**](https://github.com/Professor-Codephreak/Tomb) | Encrypted file container (forked from dyne) |
-| [**bankonHEADs**](https://github.com/Professor-Codephreak/bankonOS) | RAM-based live OS — Heads fork, Tor, amnesic |
+| [**bankonHEADs**](https://github.com/cryptoAGI/bankonOS/tree/v1.0.0-rc1) | RAM-based live OS — Heads fork, Tor, amnesic |
 | [**GUToE**](https://github.com/grandunifiedtheoryofeverything) | Grand Unified Theory of Everything |
 
 ---
